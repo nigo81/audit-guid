@@ -202,8 +202,7 @@
 - [财政部-借款费用准则实施问答](http://kjs.mof.gov.cn/zt/kjzzss/sswd/jkwd/) 
 - [财政部-其他相关实施问答](http://www.mof.gov.cn/gongzhongcanyu/zixunfankui/) 
 - [企业会计准则及应用指南2021年5月修订-下载](https://wwe.lanzoui.com/ib3yQropyid)
-- [中国注册会计师审计准则2019](https://pan.baidu.com/s/18ugaMenieBHB8BNArGVPKQ) -（提取码：b9tn）
-- [中国注册会计师审计准则-下载](https://www.lanzoui.com/i7um5xc) 
+- [中国注册会计师审计准则2019-下载](https://pan.baidu.com/s/18ugaMenieBHB8BNArGVPKQ) -（提取码：b9tn）-2019年发布的18项中国注册会计师审计准则+2020发布的5项中国注册会计师审计准则问题解答
 - [中国注册会计师审计准则应用指南-下载](https://www.lanzoui.com/i7um6ch) 
 
 ### 其它
