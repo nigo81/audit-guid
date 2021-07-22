@@ -222,6 +222,7 @@
 
 - [让数字说话](https://book.douban.com/subject/26746460/) -作者以浅显易懂的语言、幽默诙谐的比喻和旁征博引的故事引领我们开启一段奇妙的阅读旅程。
 - [会计准则内在逻辑](https://book.douban.com/subject/26871620/) -理解会计准则原理的不错的书。
+- [审计excel技能手册](https://wwe.lanzoui.com/iB6l3rpmbaf) -详细讲解了审计工作中需要用到的Excel基本技能，比较推荐。
 - [审计效率手册](https://book.douban.com/subject/34886553/) -讲解了Excel函数和Excel VBA制作一些审计工具。
 - [瑞华研究2010～2019汇编](https://bbs.esnai.com/thread-5413973-1-1.html) -审计实务问题汇编
 - [中审众环研究](https://wwe.lanzoui.com/iBRuSrpljuh) 
