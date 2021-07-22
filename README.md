@@ -18,20 +18,39 @@
 
 **目录**
 
+
 <!-- vim-markdown-toc GFM -->
 
 * [工具](#工具)
     * [财务审计工具](#财务审计工具)
     * [IT审计工具](#it审计工具)
     * [办公效率工具](#办公效率工具)
-    * [实用网站](#实用网站)
-* [法规](#法规)
+* [实用网站](#实用网站)
+    * [综合数据查询平台](#综合数据查询平台)
+    * [工商信息查询](#工商信息查询)
+    * [IPO及上市公司定期公告查询](#ipo及上市公司定期公告查询)
+    * [审计程序检索](#审计程序检索)
+        * [汇率查询](#汇率查询)
+        * [利率查询](#利率查询)
+        * [海关信息查询](#海关信息查询)
+        * [商标专利](#商标专利)
+        * [动产抵押查询](#动产抵押查询)
+        * [国家科技成果库登记结果查询](#国家科技成果库登记结果查询)
+        * [征信报告查询](#征信报告查询)
+        * [海外银行函证](#海外银行函证)
+        * [诉讼](#诉讼)
+    * [事务所信息查询](#事务所信息查询)
+    * [税收法规查询](#税收法规查询)
+    * [处罚信息](#处罚信息)
+* [法规学习](#法规学习)
     * [准则](#准则)
+    * [其它](#其它)
 * [网课](#网课)
 * [书籍](#书籍)
-* [其它](#其它)
+* [其它](#其它-1)
 
 <!-- vim-markdown-toc -->
+
 
 ## 工具
 
@@ -66,26 +85,138 @@
 - [utools](https://u.tools/) -非常强大的一个应用启动器，同时也是生产力工具集，集成了很多有用的小插件。(免费)
 
 
-### 实用网站
+## 实用网站
 
-- [巨潮资讯网](http://www.cninfo.com.cn/new/index) -上市公司公众指定发布平台。(免费)
+### 综合数据查询平台
+
 - [青藤数据](http://www.qingtengdata.com/) -审计相关数据查询网站。实务问答、税务问答、关键审计事项、公告查询、财务法规、税务法规。(免费)
-- [天眼查](https://www.tianyancha.com/) -工商信息查询。（免费版够用）
 - [见微数据](https://www.jianweidata.com/) -公告查询、IPO反馈、问询。一个月试用期。(付费)
 - [荣大二郞神](http://doc.rongdasoft.com/) -公告、反馈，与见微相似。(付费)
 - [会计视野论坛](https://bbs.esnai.com/forum-7-1.html) -审计行业最专业的实务问题交流平台。
 
-## 法规
+### 工商信息查询
+
+- [天眼查](https://www.tianyancha.com/) 
+- [信用中国](https://www.creditchina.gov.cn) 
+- [深圳商事主体查询](https://amr.sz.gov.cn/outer/entSelect/gs.html) 
+- [国外公司的工商信息](registers) 
+- [香港公司的工商信息](https://www.icris.cr.gov.hk/csci/) 
+- [国家企业信用信息公示系统](http://www.gsxt.gov.cn/index.html) 
+- [国家市场监督管理总局](http://zwfw.samr.gov.cn/wyc/) 
+- [小微企业名录](http://xwqy.gsxt.gov.cn) 
+
+### IPO及上市公司定期公告查询
+
+- [巨潮资讯网](http://www.cninfo.com.cn/new/index) 
+- [中国证券监督管理委员会（信息披露平台）](http://eid.csrc.gov.cn/) 
+- [中国证券监督管理委员会](http://www.csrc.gov.cn/pub/newsite/) 
+- [股转系统公告查询](http://www.neeq.com.cn/disclosure/overview_information.html) 
+- [中小板、主板的排队名单](http://www.csrc.gov.cn/pub/newsite/zxgx/jigbsdt/) 
+- [科创板名单及反馈查询](http://kcb.sse.com.cn/renewal/) 
+- [创业板名单及反馈查询](http://listing.szse.cn/projectdynamic/ipo/index.html) 
+- [精选层名单及反馈查询](http://www.neeq.com.cn/zone/audit/project_news.html) 
+
+### 审计程序检索
+
+#### 汇率查询
+- [国家外汇管理局](http://www.safe.gov.cn/safe/rmbhlzjj/index.html) 
+- [中国人民银行](http://www.pbc.gov.cn/rmyh/108976/index.html) 
+
+#### 利率查询
+- [LIBOR历史利率](http://data.bank.hexun.com/yhcj/cj.aspx?r=0000000001000000&t=12&page=24) 
+- [贷款基准利率查询](http://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/125838/125888/index.html) 
+- [中国债券信息网-中债收益率](http://yield.chinabond.com.cn/cbweb-mn/yield_main?locale=zh_CN) 
+- [贷款利率和LPR](http://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/index.html) 
+- [银行拆借利率](http://data.bank.hexun.com/yhcj/cj.aspx) 
+#### 海关信息查询
+- [海关总署政府服务窗口](http://customs.gjzwfw.gov.cn) 
+- [通关流转状态](http://app.gjzwfw.gov.cn/jmopen/webapp/html5/tglzztPC/index.html) 
+- [舱单通关状态查询](http://app.gjzwfw.gov.cn/jmopen/webapp/html5/cdtgztPC/index.html) 
+- [进出口商品税率查询](http://app.gjzwfw.gov.cn/jmopen/webapp/html5/jckspslPC/index.html) 
+- [本国子目查询](http://app.gjzwfw.gov.cn/jmopen/webapp/html5/bengzmPC/index.html) 
+- [税则商品品目注释](http://app.gjzwfw.gov.cn/jmopen/webapp/html5/szsmzsPC/index.html) 
+- [归类决定裁定](http://app.gjzwfw.gov.cn/jmopen/webapp/html5/gljdcdPC/index.html) 
+- [重点商品查询](http://app.gjzwfw.gov.cn/jmopen/webapp/html5/zhongdspcxPC/index.html) 
+- [税目税号查询](http://app.gjzwfw.gov.cn/jmopen/webapp/html5/smshPC/index.html) 
+- [舱单信息](http://app.gjzwfw.gov.cn/jmopen/webapp/html5/cdxxPC/index.html) 
+- [企业信息公示](http://app.gjzwfw.gov.cn/jmopen/webapp/html5/qyxigsPC/index.html) 
+#### 商标专利
+- [国家知识产权](https://www.cnipa.gov.cn/col/col1510/index.html) 
+- [专利检索及分析系统](http://pss-system.cnipa.gov.cn/sipopublicsearch/portal/uiIndex.shtml) 
+- [中国及多国专利审查信息查询](http://cpquery.cnipa.gov.cn) 
+- [中国专利公布公告](http://epub.cnipa.gov.cn) 
+- [商标查询](http://sbj.cnipa.gov.cn/sbcx/) 
+- [商标注册审查决定文书](http://wssq.sbj.cnipa.gov.cn:9080/tmsve/zccw_getMain.xhtml) 
+- [商标异议决定文书](http://wssq.sbj.cnipa.gov.cn:9080/tmsve/yycw_getMain.xhtml) 
+- [商标评审裁定/决定文书](http://wssq.sbj.cnipa.gov.cn:9080/tmsve/pingshen_getMain.xhtml) 
+- [商标注册证明公示](http://wsgs.sbj.cnipa.gov.cn:9080/tmpu/) 
+- [商标公告](http://wsgg.sbj.cnipa.gov.cn:9080/tmann/annInfoView/homePage.html) 
+#### 动产抵押查询
+- [全国市场监管动产抵押登记业务系统](http://dcdy.gsxt.gov.cn/loginSydq/index.xhtml?isNotLogin=1) 
+#### 国家科技成果库登记结果查询
+- [国家科技成果库登记结果查询](https://www.tech110.net/portal.php?mod=list&catid=538) 
+#### 征信报告查询
+- [中国人民银行征信中心](http://www.pbccrc.org.cn/) 
+#### 海外银行函证
+- [comformation](https://zs.confirmation.com/) 
+#### 诉讼
+- [全国法院被执行人信息查询](http://zhixing.court.gov.cn/search/) 
+- [中国裁判文书网](http://wenshu.court.gov.cn/) 
+- [中国执行信息公开网](http://zxgk.court.gov.cn/) 
+
+### 事务所信息查询
+
+- [财政部政务服务窗口](http://mof.gjzwfw.gov.cn) 
+- [证券资格事务所信息查询](http://app.gjzwfw.gov.cn/jmopen/webapp/html5/zqsxxcx/index.html) 
+- [事务所信息查询](http://app.gjzwfw.gov.cn/jmopen/webapp/html5/swsxxcx/index.html) 
+- [注册会计师信息查询](http://app.gjzwfw.gov.cn/jmopen/webapp/html5/zckjscx/index.html) 
+- [事务所重名查询](http://app.gjzwfw.gov.cn/jmopen/webapp/html5/swscmcx/index.html) 
+- [代理记账机构查询](http://app.gjzwfw.gov.cn/jmopen/webapp/html5/dljzjgcx/index.html) 
+
+### 税收法规查询
+- [国家税务总局](http://www.chinatax.gov.cn/chinatax/n810346/index.html) 
+- [税收政策库](http://www.chinatax.gov.cn/chinatax/n810341/n810825/index.html?title=) 
+- [国家税务总局全国增值税发票查验平台](https://inv-veri.chinatax.gov.cn) 
+- [信用A级纳税人查询](http://hd.chinatax.gov.cn/nszx/InitCredit.html) 
+- [重大税收违法失信案件信息查询](http://www.chinatax.gov.cn/chinatax/c101249/n2020011502/index.html) 
+- [涉税专业服务机构查询](https://12366.chinatax.gov.cn/sszyfw/bulletinBoard/main) 
+- [出口退税率查询](http://www.chinatax.gov.cn/n810346/index.html) 
+- [税收条约](http://www.chinatax.gov.cn/chinatax/n810341/n810770/index.html) 
+- [税务公报](http://www.chinatax.gov.cn/chinatax/n810341/n810765/index.html) 
+
+### 处罚信息
+- [上市公司违法违规信息](https://www.investor.org.cn/was5/web/search?channelid=223359) 
+- [挂牌公司违法违规信息](https://www.investor.org.cn/was5/web/search?channelid=223359) 
+- [中介机构违法违规信息](https://www.investor.org.cn/was5/web/search?channelid=223359) 
+- [中国市场监督行政处罚文书网](http://cfws.samr.gov.cn) 
+
+
+
+## 法规学习
 
 ### 准则
-- [企业会计准则及应用指南2021年5月修订](https://wwe.lanzoui.com/ib3yQropyid)
-- [中国注册会计师审计准则](https://www.lanzoui.com/i7um5xc) 
-- [中国注册会计师审计准则应用指南](https://www.lanzoui.com/i7um6ch) 
+- [财政部-企业会计准则](http://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/) 
+- [财政部-企业会计准则解释](http://kjs.mof.gov.cn/zt/kjzzss/qykjzzjs/) 
+- [财政部-发布收入准则、租赁准则、股份支付准则应用案例](http://kjs.mof.gov.cn/zt/kjzzss/srzzzq/) 
+- [财政部-收入准则实施问答](http://kjs.mof.gov.cn/zt/kjzzss/sswd/srzzsswd/) 
+- [财政部-借款费用准则实施问答](http://kjs.mof.gov.cn/zt/kjzzss/sswd/jkwd/) 
+- [财政部-其他相关实施问答](http://www.mof.gov.cn/gongzhongcanyu/zixunfankui/) 
+- [企业会计准则及应用指南2021年5月修订-下载](https://wwe.lanzoui.com/ib3yQropyid)
+- [中国注册会计师审计准则-下载](https://www.lanzoui.com/i7um5xc) 
+- [中国注册会计师审计准则应用指南-下载](https://www.lanzoui.com/i7um6ch) 
+
+### 其它
+- [监管规则适用指引——会计类第1号](http://www.csrc.gov.cn/newsite/ztzl/jggzsyzy/202011/t20201113_386201.html) 
+- [中国证监会发行审核业务问答](http://www.csrc.gov.cn/pub/newsite/fxjgb/fxbzcfg/fxbfxjgwd/202006/t20200610_377997.html) 
+- [中国证监会监管规则](http://www.csrc.gov.cn/pub/newsite/kjb/kjbzcgf/xsjzj/sjpgjggz/) 
+- [北京注册会计师协会专业技术委员会 专家提示](http://www.bicpa.org.cn/zyfwz/zyfw/index.html) 
+- [德勤发布会计研究](http://www.casplus.com/home.asp) 
 
 ## 网课
 
 - [瑞华会计师事务所合伙人手把手教你审计实操](https://www.bilibili.com/video/BV1Ts411L7mz?from=search&seid=4193060424620229640) B站上提供的审计实操课程。
 - [审计效率提升课](https://space.bilibili.com/229695603/channel/detail?cid=86210) B站上讲解用excel常用函数以及VBA工具提高效率。
+- [上海证券交易所公开课](http://training.sseinfo.com/sse/index.do) 
 
 ## 书籍
 
