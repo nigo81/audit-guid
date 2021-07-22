@@ -121,6 +121,7 @@
 #### 汇率查询
 - [国家外汇管理局](http://www.safe.gov.cn/safe/rmbhlzjj/index.html) 
 - [中国人民银行](http://www.pbc.gov.cn/rmyh/108976/index.html) 
+- [中国货币网](http://www.chinamoney.com.cn/) -有汇率、利率等相关信息，由中国外汇交易中心主办。
 
 #### 利率查询
 - [LIBOR历史利率](http://data.bank.hexun.com/yhcj/cj.aspx?r=0000000001000000&t=12&page=24) 
