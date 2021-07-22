@@ -10,7 +10,7 @@
 
 如果你也是这样认为，可以贡献你的一份力。
 
-只需要点击 [Issues](https://gitee.com/nigo81/audit-guid/issues)，新建一个issue，然后把你觉得好的资源的名称、链接以及相关描述写出来就完成了。
+只需要点击 [Issues](https://gitee.com/nigo81/audit-guid/issues/new?issue%5Bassignee_id%5D=0&issue%5Bmilestone_id%5D=0)，新建一个issue，然后把你觉得好的资源的名称、链接以及相关描述写出来就完成了。
 
 当然，你如果会使用`git`，你也可以提交`pull requests`。
 
