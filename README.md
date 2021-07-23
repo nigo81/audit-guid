@@ -23,6 +23,7 @@
 
 * [工具](#工具)
     * [财务审计工具](#财务审计工具)
+        * [财务数据工具](#财务数据工具)
     * [IT审计工具](#it审计工具)
     * [办公效率工具](#办公效率工具)
 * [实用网站](#实用网站)
@@ -61,6 +62,10 @@
 - [万能函证生成器](https://gitee.com/nigo81/audittool) -采用根据不同Word自动生成Excel模版，只需要在生成的Excel模版中填写数据，点点按钮就能轻松生成
 - [方方格子](http://www.ffcell.com/) -Excel插件，包含一系列Excel实用功能
 
+#### 财务数据工具
+- [同行业财务指标查询工具](https://pan.baidu.com/s/1qtkLv475LvqGcOHKuK1uxw)  -(密码: gkp5)Excel VBA写的宏获取新浪财经指标数据包含在[tools for auditor](https://github.com/nigo81/tools-for-auditor)中。
+- [国泰君安数据库](https://www.gtarsc.com/) -查询上市公司财务数据（付费）， [使用方法](https://mp.weixin.qq.com/s/_d42SKSUyWBKoM1JRNbQMA) 。
+
 ### IT审计工具
 
 - [mysql](https://www.mysql.com/downloads/) -免费数据库，可以对大数据量数据进行处理分析，需要掌握SQL语言。
@@ -83,6 +88,7 @@
 
 - [total commander](https://www.ghisler.com/) -强大的资源管理器，可以提高操作文件的效率。(免费的够用)
 - [utools](https://u.tools/) -非常强大的一个应用启动器，同时也是生产力工具集，集成了很多有用的小插件。(免费)
+- [Quicker](https://getquicker.net/) -办公效率工具，可以为任何常用内容建立捷径，也可以自己组合动作去完成某个特定的功能。不善于创造动作的同学可以使用他人分享的动作。
 
 
 ## 实用网站
