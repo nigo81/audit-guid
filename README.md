@@ -59,7 +59,7 @@
 
 - [审计工具箱](https://gitee.com/wwwwwc/audbox) 快递截图、工商截图、询证函处理、地址复核、海关查询、公告下载、地址补全集合成一个exe文件。
 - [tools for auditor](https://github.com/nigo81/tools-for-auditor) Excel VBA编写的一系列工具
-- [万能函证生成器](https://gitee.com/nigo81/audittool) -采用根据不同Word自动生成Excel模版，只需要在生成的Excel模版中填写数据，点点按钮就能轻松生成
+- [万能函证生成器](https://gitee.com/nigo81/audittool) - [使用方法](https://www.bilibili.com/video/BV1eK411u7cz)  采用根据不同Word自动生成Excel模版，只需要在生成的Excel模版中填写数据，点点按钮就能轻松生成
 - [方方格子](http://www.ffcell.com/) -Excel插件，包含一系列Excel实用功能
 
 #### 财务数据工具
@@ -235,6 +235,7 @@
 - [中审众环研究](https://wwe.lanzoui.com/iBRuSrpljuh) 
 - [上市公司执行企业会计准则案例解析（2020）](https://wwe.lanzoui.com/i3PgOrpljob) 
 - [IPO审核问答汇编20210716](https://wwe.lanzoui.com/i0tYwrpljna) 
+- [行政事业单位审计常见问题200案例](https://www.aliyundrive.com/s/bSk7pyuSdqQ) -(提取码：gkt0)
 
 ## 其它
 
