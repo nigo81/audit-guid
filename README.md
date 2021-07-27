@@ -81,6 +81,8 @@
 - [IP地址查询网站](https://www.ipip.net/ip.html) -IPIP网站查询IP地址，解析出其物理地址。
 - [手机号码归属地解析](https://github.com/ls0f/phone) -手机号码归属地库。
 - [tushare金融数据](https://tushare.pro/) -金融数据接口（数据获取需要积分）
+- [akshare金融数据](https://www.akshare.xyz/zh_CN/latest/index.html) -免费的金融数据接口
+- [baostock金融数据](http://baostock.com/baostock/index.php) -免费的金融数据接口
 - [行政区划数据库](https://gitee.com/xusimin/area) -全国行政区划，省市区镇四级，包含名称、完整名称、经纬度、区号、邮编、行政区划代码、拼音。
 
 
