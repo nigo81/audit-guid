@@ -65,6 +65,9 @@
 #### 财务数据工具
 - [同行业财务指标查询工具](https://pan.baidu.com/s/1qtkLv475LvqGcOHKuK1uxw)  -(密码: gkp5)Excel VBA写的宏获取新浪财经指标数据包含在[tools for auditor](https://github.com/nigo81/tools-for-auditor)中。
 - [国泰君安数据库](https://www.gtarsc.com/) -查询上市公司财务数据（付费）， [使用方法](https://mp.weixin.qq.com/s/_d42SKSUyWBKoM1JRNbQMA) 。
+- [tushare金融数据](https://tushare.pro/) -金融数据接口（数据获取需要积分）
+- [akshare金融数据](https://www.akshare.xyz/zh_CN/latest/index.html) -免费的金融数据接口
+- [baostock金融数据](http://baostock.com/baostock/index.php) -免费的金融数据接口
 
 ### IT审计工具
 
@@ -80,9 +83,6 @@
 - [IP地址解析](https://gitee.com/lionsoul/ip2region) -ip2region  准确率99.9%的离线IP地址定位库。
 - [IP地址查询网站](https://www.ipip.net/ip.html) -IPIP网站查询IP地址，解析出其物理地址。
 - [手机号码归属地解析](https://github.com/ls0f/phone) -手机号码归属地库。
-- [tushare金融数据](https://tushare.pro/) -金融数据接口（数据获取需要积分）
-- [akshare金融数据](https://www.akshare.xyz/zh_CN/latest/index.html) -免费的金融数据接口
-- [baostock金融数据](http://baostock.com/baostock/index.php) -免费的金融数据接口
 - [行政区划数据库](https://gitee.com/xusimin/area) -全国行政区划，省市区镇四级，包含名称、完整名称、经纬度、区号、邮编、行政区划代码、拼音。
 
 
