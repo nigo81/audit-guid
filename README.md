@@ -61,6 +61,8 @@
 - [tools for auditor](https://github.com/nigo81/tools-for-auditor) Excel VBA编写的一系列工具
 - [万能函证生成器](https://gitee.com/nigo81/audittool) - [使用方法](https://www.bilibili.com/video/BV1eK411u7cz)  采用根据不同Word自动生成Excel模版，只需要在生成的Excel模版中填写数据，点点按钮就能轻松生成
 - [方方格子](http://www.ffcell.com/) -Excel插件，包含一系列Excel实用功能
+- [审计报告排版工具](https://mp.weixin.qq.com/s?__biz=MzI0MjgxMzg1Mw==&mid=2247491654&idx=1&sn=4b374e054033b0a2d951a50e97031357&chksm=e9743eb4de03b7a2aed427500e294574bc80abb860f749afe7b835b2f6e4c73d200a42b91cb5&token=196403941&lang=zh_CN#rd) [下载链接](https://pan.baidu.com/s/1rawDE6gNAq1LTUx29wayXA)  密码: g2qq
+- [word排版大杀器](https://mp.weixin.qq.com/s?__biz=MzI0MjgxMzg1Mw==&mid=2247489878&idx=1&sn=fd6471bdfcf1612fbac06bf4e573c4fb&chksm=e977c7a4de004eb22b53ee57cc2543c5466dc213e0d1d2fdff3a3e92f0bf9c41f09f268bb81e&token=196403941&lang=zh_CN#rd)  - word加载宏一些实用功能 [下载链接](https://pan.baidu.com/s/1p8oUSHNQCRbq18Kzo_aHLA)  提取码：oeia
 
 #### 财务数据工具
 - [同行业财务指标查询工具](https://pan.baidu.com/s/1qtkLv475LvqGcOHKuK1uxw)  -(密码: gkp5)Excel VBA写的宏获取新浪财经指标数据包含在[tools for auditor](https://github.com/nigo81/tools-for-auditor)中。
