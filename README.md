@@ -61,11 +61,15 @@
 - [tools for auditor](https://github.com/nigo81/tools-for-auditor) Excel VBA编写的一系列工具
 - [万能函证生成器](https://gitee.com/nigo81/audittool) - [使用方法](https://www.bilibili.com/video/BV1eK411u7cz)  采用根据不同Word自动生成Excel模版，只需要在生成的Excel模版中填写数据，点点按钮就能轻松生成
 - [方方格子](http://www.ffcell.com/) -Excel插件，包含一系列Excel实用功能
-- [审计报告排版工具](https://mp.weixin.qq.com/s?__biz=MzI0MjgxMzg1Mw==&mid=2247491654&idx=1&sn=4b374e054033b0a2d951a50e97031357&chksm=e9743eb4de03b7a2aed427500e294574bc80abb860f749afe7b835b2f6e4c73d200a42b91cb5&token=894284587&lang=zh_CN#rd) -word宏
+- [审计报告排版工具](https://mp.weixin.qq.com/s?__biz=MzI0MjgxMzg1Mw==&mid=2247491654&idx=1&sn=4b374e054033b0a2d951a50e97031357&chksm=e9743eb4de03b7a2aed427500e294574bc80abb860f749afe7b835b2f6e4c73d200a42b91cb5&token=196403941&lang=zh_CN#rd) [下载链接](https://pan.baidu.com/s/1rawDE6gNAq1LTUx29wayXA)  密码: g2qq
+- [word排版大杀器](https://mp.weixin.qq.com/s?__biz=MzI0MjgxMzg1Mw==&mid=2247489878&idx=1&sn=fd6471bdfcf1612fbac06bf4e573c4fb&chksm=e977c7a4de004eb22b53ee57cc2543c5466dc213e0d1d2fdff3a3e92f0bf9c41f09f268bb81e&token=196403941&lang=zh_CN#rd)  - word加载宏一些实用功能 [下载链接](https://pan.baidu.com/s/1p8oUSHNQCRbq18Kzo_aHLA)  提取码：oeia
 
 #### 财务数据工具
 - [同行业财务指标查询工具](https://pan.baidu.com/s/1qtkLv475LvqGcOHKuK1uxw)  -(密码: gkp5)Excel VBA写的宏获取新浪财经指标数据包含在[tools for auditor](https://github.com/nigo81/tools-for-auditor)中。
 - [国泰君安数据库](https://www.gtarsc.com/) -查询上市公司财务数据（付费）， [使用方法](https://mp.weixin.qq.com/s/_d42SKSUyWBKoM1JRNbQMA) 。
+- [tushare金融数据](https://tushare.pro/) -金融数据接口（数据获取需要积分）
+- [akshare金融数据](https://www.akshare.xyz/zh_CN/latest/index.html) -免费的金融数据接口
+- [baostock金融数据](http://baostock.com/baostock/index.php) -免费的金融数据接口
 
 ### IT审计工具
 
@@ -81,7 +85,6 @@
 - [IP地址解析](https://gitee.com/lionsoul/ip2region) -ip2region  准确率99.9%的离线IP地址定位库。
 - [IP地址查询网站](https://www.ipip.net/ip.html) -IPIP网站查询IP地址，解析出其物理地址。
 - [手机号码归属地解析](https://github.com/ls0f/phone) -手机号码归属地库。
-- [tushare金融数据](https://tushare.pro/) -金融数据接口（数据获取需要积分）
 - [行政区划数据库](https://gitee.com/xusimin/area) -全国行政区划，省市区镇四级，包含名称、完整名称、经纬度、区号、邮编、行政区划代码、拼音。
 - [批量识别增值税发票](https://gitee.com/nigo81/invoiceocr) 利用paddleocr批量识别并提取发票信息
 - [BOM穿透](https://mp.weixin.qq.com/s?__biz=MzI0MjgxMzg1Mw==&mid=2247491671&idx=1&sn=8e4dd10b14d9e0195e7ebb49277cbed0&chksm=e9743ea5de03b7b378694673d2303918b378febed48a5b0bd2a76bfdfc1ab6f52764f903ed26&token=894284587&lang=zh_CN#rd) 利用树对生产企业的BOM关系进行穿透
