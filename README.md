@@ -193,6 +193,7 @@
 ### 税收法规查询
 - [国家税务总局](http://www.chinatax.gov.cn/chinatax/n810346/index.html) 
 - [税收政策库](http://www.chinatax.gov.cn/chinatax/n810341/n810825/index.html?title=) 
+- [中税答疑官网](http://www.shui12366.com/index) - 税收政策、行业税收、税收优惠、法院判例
 - [国家税务总局全国增值税发票查验平台](https://inv-veri.chinatax.gov.cn) 
 - [信用A级纳税人查询](http://hd.chinatax.gov.cn/nszx/InitCredit.html) 
 - [重大税收违法失信案件信息查询](http://www.chinatax.gov.cn/chinatax/c101249/n2020011502/index.html) 
