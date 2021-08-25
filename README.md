@@ -247,6 +247,7 @@
 - [上市公司执行企业会计准则案例解析（2020）](https://wwe.lanzoui.com/i3PgOrpljob) 
 - [IPO审核问答汇编20210716](https://wwe.lanzoui.com/i0tYwrpljna) 
 - [行政事业单位审计常见问题200案例](https://www.aliyundrive.com/s/bSk7pyuSdqQ) -(提取码：gkt0)
+- [财务报表审计中对信息系统的考虑](https://book.douban.com/subject/30587232/) 
 
 ## 其它
 
