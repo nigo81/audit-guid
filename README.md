@@ -30,6 +30,7 @@
     * [综合数据查询平台](#综合数据查询平台)
     * [工商信息查询](#工商信息查询)
     * [IPO及上市公司定期公告查询](#ipo及上市公司定期公告查询)
+    * [招股说明书查询](#招股说明书查询)
     * [审计程序检索](#审计程序检索)
         * [汇率查询](#汇率查询)
         * [利率查询](#利率查询)
@@ -129,6 +130,12 @@
 - [科创板名单及反馈查询](http://kcb.sse.com.cn/renewal/) 
 - [创业板名单及反馈查询](http://listing.szse.cn/projectdynamic/ipo/index.html) 
 - [精选层名单及反馈查询](http://www.neeq.com.cn/zone/audit/project_news.html) 
+
+### 招股说明书查询
+
+- [A股招股说明书查询](http://www.csrc.gov.cn/pub/newsite/xxpl/) 
+- [港股招股说明书查询](http://www.hkexnews.hk/APP/SEHKAppMainIndex_c.htm) 
+- [美股招股说明书查询](https://www.sec.gov/edgar/searchedgar/companysearch.html) 
 
 ### 审计程序检索
 
