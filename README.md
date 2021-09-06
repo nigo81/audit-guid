@@ -95,7 +95,8 @@
 
 ### 办公效率工具
 
-- [total commander](https://www.ghisler.com/) -强大的资源管理器，可以提高操作文件的效率。(免费的够用)
+- [total commander](https://www.ghisler.com/) -强大的资源管理器，可以提高操作文件的效率。(免费的够用) [使用介绍](https://wwe.lanzoui.com/i61cjtp24hc) 
+- [capsez](https://mp.weixin.qq.com/s/i8ouQ7XeKh1Db_dk6nOeIg) --使用AHK脚本自定义快捷键，提高total commander,Excel等软件的操作效率 [下载地址](https://wwe.lanzoui.com/i61cjtp24hc) 
 - [utools](https://u.tools/) -非常强大的一个应用启动器，同时也是生产力工具集，集成了很多有用的小插件。(免费)
 - [Quicker](https://getquicker.net/) -办公效率工具，可以为任何常用内容建立捷径，也可以自己组合动作去完成某个特定的功能。不善于创造动作的同学可以使用他人分享的动作。
 
