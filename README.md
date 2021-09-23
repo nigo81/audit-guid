@@ -25,6 +25,7 @@
     * [财务审计工具](#财务审计工具)
         * [财务数据工具](#财务数据工具)
     * [IT审计工具](#it审计工具)
+    * [财务工具](#财务工具)
     * [办公效率工具](#办公效率工具)
 * [实用网站](#实用网站)
     * [综合数据查询平台](#综合数据查询平台)
@@ -91,7 +92,9 @@
 - [BOM穿透](https://mp.weixin.qq.com/s?__biz=MzI0MjgxMzg1Mw==&mid=2247491671&idx=1&sn=8e4dd10b14d9e0195e7ebb49277cbed0&chksm=e9743ea5de03b7b378694673d2303918b378febed48a5b0bd2a76bfdfc1ab6f52764f903ed26&token=894284587&lang=zh_CN#rd) 利用树对生产企业的BOM关系进行穿透
 - [公司名称批量模糊匹配](https://mp.weixin.qq.com/s?__biz=MzI0MjgxMzg1Mw==&mid=2247491615&idx=1&sn=1bc06e3e981929db2a84deceb3a82a6c&chksm=e9743eedde03b7fb411286e3b72d8d10e60b5913d7ade2ec3a8a3dd39c132ddd6fd37608f356&token=894284587&lang=zh_CN#rd) 利用fuzzywuzzy对两期账套的往来科目公司名称进行模糊匹配
 
+### 财务工具
 
+- [新租赁准则分录分成](https://mp.weixin.qq.com/s/nuV-imxFZSxHXJ4daT9SQw)  工具 [下载链接](https://pan.baidu.com/share/init?surl=GWzJQnzw5AeNXgMvqD-DcA) 提取码：6666
 
 ### 办公效率工具
 
