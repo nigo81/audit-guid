@@ -246,6 +246,8 @@
 - [瑞华会计师事务所合伙人手把手教你审计实操](https://www.bilibili.com/video/BV1Ts411L7mz?from=search&seid=4193060424620229640) B站上提供的审计实操课程。
 - [审计效率提升课](https://space.bilibili.com/229695603/channel/detail?cid=86210) B站上讲解用excel常用函数以及VBA工具提高效率。
 - [上海证券交易所公开课](http://training.sseinfo.com/sse/index.do) 
+- [北交所官方培训课件0927（112页）](https://www.lanzouw.com/inde1ulwule) 密码：00
+- [北京证券交易所新政解读-中金公司-2021.9](https://www.lanzouw.com/ikRhqulwuyh) 密码:00
 
 ## 书籍
 
