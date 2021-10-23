@@ -268,6 +268,8 @@
 - [行政事业单位审计常见问题200案例](https://www.aliyundrive.com/s/bSk7pyuSdqQ) -(提取码：gkt0)
 - [财务报表审计中对信息系统的考虑](https://book.douban.com/subject/30587232/) 
 - [中国证监会关于会计师事务所从事证券服务业务检查工作指引](https://pan.baidu.com/s/1pJ7h6ZBAvRStgGi9nYSYEg) 提取码：z6jn
+- [热点难点会计问题专题研究（2021）-天职国际](https://wwe.lanzoui.com/iz8wMvo3ugj) 
+- [财务炼金术](https://wwe.lanzoui.com/ipeEpvo491e) 
 
 ## 其它
 
