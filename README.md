@@ -253,6 +253,7 @@
 - [上海证券交易所公开课](http://training.sseinfo.com/sse/index.do) 
 - [北交所官方培训课件0927（112页）](https://www.lanzouw.com/inde1ulwule) 密码：00
 - [北京证券交易所新政解读-中金公司-2021.9](https://www.lanzouw.com/ikRhqulwuyh) 密码:00
+- [及晓慧老师腾讯课堂](https://liarn.ke.qq.com/#tab=1&category=-1) -底稿法编制现金流量表
 
 ## 书籍
 
