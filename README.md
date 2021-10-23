@@ -274,3 +274,4 @@
 - [各会计科目审计经验总结](https://wwe.lanzoui.com/idPyVi8jtfe) -林铖总结的每个科目关注点、需要资料、提高效率方法。
 - [会计视野论坛陈版主答疑汇总](https://wwe.lanzoui.com/b01nyhiod) -(密码:1mki)论坛CPA业务探讨版块问答的汇总。
 - [合并财务报表理论与实务--复杂股权结构与成本法合并](https://wwe.lanzoui.com/ib5c2ronong) -及晓慧老师分享的合并报表课件。
+- [现金流量表-底稿法课件.pptx](https://wwe.lanzoui.com/ia4Vnvo3l2b) -- 及晓慧老师的现金流量表课件。
