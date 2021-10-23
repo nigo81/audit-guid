@@ -269,7 +269,7 @@
 - [财务报表审计中对信息系统的考虑](https://book.douban.com/subject/30587232/) 
 - [中国证监会关于会计师事务所从事证券服务业务检查工作指引](https://pan.baidu.com/s/1pJ7h6ZBAvRStgGi9nYSYEg) 提取码：z6jn
 - [热点难点会计问题专题研究（2021）-天职国际](https://wwe.lanzoui.com/iz8wMvo3ugj) 
-- [财务炼金术](https://wwe.lanzoui.com/ipeEpvo491e) 
+- [财务炼金术](https://wwe.lanzoui.com/ipeEpvo491e) -主要介绍通过行业信息以及报表数据识别是否有造假
 
 ## 其它
 
