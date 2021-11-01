@@ -238,6 +238,7 @@
 - [企业会计准则及应用指南2021年5月修订-下载](https://wwe.lanzoui.com/ib3yQropyid)
 - [中国注册会计师审计准则2019-下载](https://pan.baidu.com/s/1YNI5eK_kx1BnJmdZ53pPHQ) -（提取码：f4d9）-2019年发布的18项中国注册会计师审计准则+2020发布的5项中国注册会计师审计准则问题解答
 - [中国注册会计师审计准则应用指南-下载](https://www.lanzoui.com/i7um6ch) 
+- [国际财务报告准则（IFRS）中英文版本对照查询网站](http://www.casplus.com/standard/standard.asp#ifrs) 
 
 ### 其它
 - [监管规则适用指引——会计类第1号](http://www.csrc.gov.cn/newsite/ztzl/jggzsyzy/202011/t20201113_386201.html) 
