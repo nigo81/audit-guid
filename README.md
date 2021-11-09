@@ -76,6 +76,7 @@
 ### IT审计工具
 
 - [mysql](https://www.mysql.com/downloads/) -免费数据库，可以对大数据量数据进行处理分析，需要掌握SQL语言。
+- [navicat12免安装](https://wwe.lanzoui.com/isqHYwbsfab) -数据库图形化管理工具，可搭配mysql使用。
 - [SQL基础语法](https://www.w3school.com.cn/sql/index.asp) -快速掌握SQL基本语法。 
 - [SQL练习网站](https://sqlzoo.net/) -通过练习掌握SQL用法。
 - [python教程](https://www.liaoxuefeng.com/wiki/1016959663602400) -免费python教程。
