@@ -96,12 +96,16 @@
 ### 财务工具
 
 - [新租赁准则分录分成](https://mp.weixin.qq.com/s/nuV-imxFZSxHXJ4daT9SQw)  工具 [下载链接](https://pan.baidu.com/share/init?surl=GWzJQnzw5AeNXgMvqD-DcA) 提取码：6666
+- [长期资产减值](https://mp.weixin.qq.com/s/SBX4UOOS8WwS66LVMU9jVQ) 解决资产组减值测试需要金融建模的痛点 [下载链接](https://pan.baidu.com/s/19sC2Off26iNmnCmwSmgQdQ) 提取码：6666
+- [商誉减值](https://mp.weixin.qq.com/s/Ugb3hw6d7iPcuhd-YNRYuw) 解决商誉减值测试需要金融建模的痛点，也可以用于评估企业价值、股权价值 [下载链接](https://pan.baidu.com/s/16znI7tiJAl_Ifsq3TP5xCg) 提取码:6666
+- [非上市股权投资自动估值](https://mp.weixin.qq.com/s/zLNDvApBZ2PBf6KqYcnJmg) -解决采用新金融工具准则需要对缺乏市场公开价格信息的非上市股权投资进行估值的痛点 [下载链接](https://pan.baidu.com/s/1-kdWTCpeFK-FTbu-VO0rkw)  提取码:6666
 
 ### 办公效率工具
 
 - [total commander](https://www.ghisler.com/) -强大的资源管理器，可以提高操作文件的效率。(免费的够用) [使用介绍](https://wwe.lanzoui.com/i61cjtp24hc) 
 - [capsez](https://mp.weixin.qq.com/s/i8ouQ7XeKh1Db_dk6nOeIg) --使用AHK脚本自定义快捷键，提高total commander,Excel等软件的操作效率 [下载地址](https://wwe.lanzoui.com/i61cjtp24hc) 
 - [utools](https://u.tools/) -非常强大的一个应用启动器，同时也是生产力工具集，集成了很多有用的小插件。(免费)
+- [listary](https://www.listary.com/download) -Windows搜索工具,可以快速搜索电脑文件、定位文件、执行智能命令、记录访问历史、快速切换目录、收藏常用项目等
 - [Quicker](https://getquicker.net/) -办公效率工具，可以为任何常用内容建立捷径，也可以自己组合动作去完成某个特定的功能。不善于创造动作的同学可以使用他人分享的动作。
 - [Everything](https://www.voidtools.com/zh-cn/) -基于名称快速定位文件和文件夹，是我见过的速度最快的文件名搜索软件，只要文件或文件夹命名无误，几个十万个文件，可以在几秒内完成索引。
 - [Obsidian](https://obsidian.md/) -强大的免费双链式笔记工具，搭配坚果云可同步，适合建立自己的知识库。 [简介视频](https://www.bilibili.com/video/BV1P64y1q7ND?from=search&seid=10079939813401286196&spm_id_from=333.337.0.0) ，还有很多免费的插件，适合用来建立自己的审计知识库。
