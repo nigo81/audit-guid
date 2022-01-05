@@ -124,6 +124,7 @@
 - [见微数据](https://www.jianweidata.com/) -公告查询、IPO反馈、问询。一个月试用期。(付费)
 - [荣大二郞神](http://doc.rongdasoft.com/) -公告、反馈，与见微相似。(付费)
 - [会计视野论坛](https://bbs.esnai.com/forum-7-1.html) -审计行业最专业的实务问题交流平台。
+- [行行查](https://www.hanghangcha.com/) -行研报告
 
 ### 工商信息查询
 
