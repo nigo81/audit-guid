@@ -80,6 +80,8 @@
 - [SQL基础语法](https://www.w3school.com.cn/sql/index.asp) -快速掌握SQL基本语法。 
 - [SQL练习网站](https://sqlzoo.net/) -通过练习掌握SQL用法。
 - [python教程](https://www.liaoxuefeng.com/wiki/1016959663602400) -免费python教程。
+- [IT审计技术手册](https://www.bilibili.com/video/BV1sF411i7LG) - python,sql网课教程
+- [clickhouse](https://www.bilibili.com/video/BV1434y1r7e3) -大数据工具
 - [power bi](https://powerbi.microsoft.com/zh-cn/downloads/) -微软出的免费的BI工具。
 - [superset](https://superset.apache.org/) -免费的可视化数据分析工具(BI工具)，基于python。
 - [gephi](https://gephi.org/) -免费的网络关系分析工具。
@@ -233,6 +235,10 @@
 
 ## 法规学习
 
+
+![](https://tujiabing-1258622425.cos.ap-chengdu.myqcloud.com/image_2022-01-05-15-53-33.png)
+会计准则、应用指南、准则解释、实施问答、应用案例、证监会会计监管风险提示合集(截止2021年) [下载](https://pan.baidu.com/s/1x9puWTGh-E-_Umwei6jTkw?pwd=dc3w) 提取码：dc3w
+
 ### 准则
 - [财政部-企业会计准则](http://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/) 
 - [财政部-企业会计准则解释](http://kjs.mof.gov.cn/zt/kjzzss/qykjzzjs/) 
@@ -255,7 +261,9 @@
 ## 网课
 
 - [瑞华会计师事务所合伙人手把手教你审计实操](https://www.bilibili.com/video/BV1Ts411L7mz?from=search&seid=4193060424620229640) B站上提供的审计实操课程。
+- [中审众环陈奕蔚《监管规则适用指引-会计类第2号》《21年财政部发布案例、问题解答要点》](https://www.bilibili.com/video/BV1434y1r7e3) 
 - [审计效率提升课](https://space.bilibili.com/229695603/channel/detail?cid=86210) B站上讲解用excel常用函数以及VBA工具提高效率。
+- [IT审计技术手册](https://www.bilibili.com/video/BV1sF411i7LG) - python,sql网课教程
 - [上海证券交易所公开课](http://training.sseinfo.com/sse/index.do) 
 - [北交所官方培训课件0927（112页）](https://www.lanzouw.com/inde1ulwule) 密码：00
 - [北京证券交易所新政解读-中金公司-2021.9](https://www.lanzouw.com/ikRhqulwuyh) 密码:00
