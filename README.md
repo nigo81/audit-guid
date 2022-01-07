@@ -81,7 +81,7 @@
 - [SQL练习网站](https://sqlzoo.net/) -通过练习掌握SQL用法。
 - [python教程](https://www.liaoxuefeng.com/wiki/1016959663602400) -免费python教程。
 - [IT审计技术手册](https://www.bilibili.com/video/BV1sF411i7LG) - python,sql网课教程
-- [clickhouse](https://www.bilibili.com/video/BV1434y1r7e3) -大数据工具
+- [clickhouse](https://mp.weixin.qq.com/s/p4Fl459LdeC5sovyoID0wQ) -大数据工具 [官方文档](https://clickhouse.com/docs/zh/) 
 - [power bi](https://powerbi.microsoft.com/zh-cn/downloads/) -微软出的免费的BI工具。
 - [superset](https://superset.apache.org/) -免费的可视化数据分析工具(BI工具)，基于python。
 - [gephi](https://gephi.org/) -免费的网络关系分析工具。
