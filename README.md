@@ -150,7 +150,7 @@
 
 ### 招股说明书查询
 
-- [A股招股说明书查询](http://www.csrc.gov.cn/pub/newsite/xxpl/) 
+- [A股招股说明书查询](http://eid.csrc.gov.cn/1010/index.html) 
 - [港股招股说明书查询](http://www.hkexnews.hk/APP/SEHKAppMainIndex_c.htm) 
 - [美股招股说明书查询](https://www.sec.gov/edgar/searchedgar/companysearch.html) 
 
