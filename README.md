@@ -258,6 +258,7 @@
 - [监管规则适用指引——会计类第1号](http://www.csrc.gov.cn/newsite/ztzl/jggzsyzy/202011/t20201113_386201.html) 
 - [中国证监会发行审核业务问答](http://www.csrc.gov.cn/pub/newsite/fxjgb/fxbzcfg/fxbfxjgwd/202006/t20200610_377997.html) 
 - [中国证监会监管规则](http://www.csrc.gov.cn/pub/newsite/kjb/kjbzcgf/xsjzj/sjpgjggz/) 
+- [中国证券监督管理委员会政府信息公开](http://www.csrc.gov.cn/csrc/c101925/zfxxgk_zdgk.shtml?channelid=29ae08ca97d44d6ea365874aa02d44f6) 
 - [北京注册会计师协会专业技术委员会 专家提示](http://www.bicpa.org.cn/zyfwz/zyfw/index.html) 
 - [德勤发布会计研究](http://www.casplus.com/home.asp) 
 
