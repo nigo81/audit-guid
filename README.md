@@ -66,6 +66,11 @@
 - [审计报告排版工具](https://mp.weixin.qq.com/s?__biz=MzI0MjgxMzg1Mw==&mid=2247491654&idx=1&sn=4b374e054033b0a2d951a50e97031357&chksm=e9743eb4de03b7a2aed427500e294574bc80abb860f749afe7b835b2f6e4c73d200a42b91cb5&token=196403941&lang=zh_CN#rd) [下载链接](https://wwe.lanzoui.com/izTYZsopdej)
 - [word排版大杀器](https://mp.weixin.qq.com/s?__biz=MzI0MjgxMzg1Mw==&mid=2247489878&idx=1&sn=fd6471bdfcf1612fbac06bf4e573c4fb&chksm=e977c7a4de004eb22b53ee57cc2543c5466dc213e0d1d2fdff3a3e92f0bf9c41f09f268bb81e&token=196403941&lang=zh_CN#rd)  - word加载宏一些实用功能 [下载链接](https://pan.baidu.com/s/1p8oUSHNQCRbq18Kzo_aHLA)  提取码：oeia
 
+- [银行流水闭环核查工具](https://mp.weixin.qq.com/s/432rFH8lHHLCiUJpNZ4zag) 
+- [一键批量填未审TB](https://mp.weixin.qq.com/s/abF14LhH8qUgWweOPwUvUg) 
+- [信息批量获取(茶瓜子)](https://mp.weixin.qq.com/s/cQGEpWuGqgL4hup0_BSVgA) 
+
+
 #### 财务数据工具
 - [同行业财务指标查询工具](https://pan.baidu.com/s/1qtkLv475LvqGcOHKuK1uxw)  -(密码: gkp5)Excel VBA写的宏获取新浪财经指标数据包含在[tools for auditor](https://github.com/nigo81/tools-for-auditor)中。
 - [国泰君安数据库](https://www.gtarsc.com/) -查询上市公司财务数据（付费）， [使用方法](https://mp.weixin.qq.com/s/_d42SKSUyWBKoM1JRNbQMA) 。
