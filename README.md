@@ -117,11 +117,13 @@
 - [listary](https://www.listary.com/download) -Windows搜索工具,可以快速搜索电脑文件、定位文件、执行智能命令、记录访问历史、快速切换目录、收藏常用项目等
 - [Quicker](https://getquicker.net/) -办公效率工具，可以为任何常用内容建立捷径，也可以自己组合动作去完成某个特定的功能。不善于创造动作的同学可以使用他人分享的动作。
 - [Everything](https://www.voidtools.com/zh-cn/) -基于名称快速定位文件和文件夹，是我见过的速度最快的文件名搜索软件，只要文件或文件夹命名无误，几个十万个文件，可以在几秒内完成索引。
+- [docfetcher](http://docfetcher.sourceforge.net/zh/index.html) 可以检索文件(pdf\word等)内容的搜索工具 [介绍](https://mp.weixin.qq.com/s/fhRNSWzeWfXCaxD5ECUDfg) [搜索技巧](https://c1n.cn/BE7XE) 
 - [Obsidian](https://obsidian.md/) -强大的免费双链式笔记工具，搭配坚果云可同步，适合建立自己的知识库。 [简介视频](https://www.bilibili.com/video/BV1P64y1q7ND?from=search&seid=10079939813401286196&spm_id_from=333.337.0.0) ，还有很多免费的插件，适合用来建立自己的审计知识库。
 - [drawio](https://github.com/jgraph/drawio-desktop/releases) -免费开源的流程图绘制工具，桌面客户端，可以完全替代visio。 [国内下载](https://wwe.lanzoui.com/b01osg6ef) 密码:camc
 - [office tool plus](https://otp.landian.vip/zh-cn/) 一键安装office软件，并激活，免费。
 - [xmind](https://www.xmind.cn/) 思维导图工具，适合整理想法，免费版足够使用。
 - [滴答清单](https://www.dida365.com/) -全平台GTD软件，适合日常任务管理，建议先阅读 [《搞定Ⅰ 无压工作的艺术》](https://book.douban.com/subject/26612471/)。
+- [super productivity](https://c1n.cn/DLRLh) -开源免费的清单及时间记录工具
 
 ## 实用网站
 
