@@ -285,6 +285,8 @@
 ## 书籍
 
 - [微信读书](https://weread.qq.com/) -微信读书移动端APP，可以免费看很多正版书籍，适合通勤路上学习。
+- [jiumo搜书](https://www.jiumodiary.com/) -免费下载中文书籍
+- [Library Genesis](http://libgen.rs/)  -免费下载英文书籍
 - [让数字说话](https://book.douban.com/subject/26746460/) -作者以浅显易懂的语言、幽默诙谐的比喻和旁征博引的故事引领我们开启一段奇妙的阅读旅程。
 - [会计准则内在逻辑](https://book.douban.com/subject/26871620/) -理解会计准则原理的不错的书。
 - [审计excel技能手册](https://wwe.lanzoui.com/iB6l3rpmbaf) -详细讲解了审计工作中需要用到的Excel基本技能，比较推荐。
@@ -298,6 +300,7 @@
 - [中国证监会关于会计师事务所从事证券服务业务检查工作指引](https://pan.baidu.com/s/1pJ7h6ZBAvRStgGi9nYSYEg) 提取码：z6jn
 - [热点难点会计问题专题研究（2021）-天职国际](https://wwe.lanzoui.com/iz8wMvo3ugj) 
 - [财务炼金术](https://wwe.lanzoui.com/ipeEpvo491e) -主要介绍通过行业信息以及报表数据识别是否有造假
+- [IT审计：用SQL+Python提升工作效率](https://book.douban.com/subject/35922721/) -主要介绍利用SQL+Python进行数据分析
 
 ## 其它
 
