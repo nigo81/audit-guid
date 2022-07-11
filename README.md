@@ -111,6 +111,8 @@
 - [商誉减值](https://mp.weixin.qq.com/s/Ugb3hw6d7iPcuhd-YNRYuw) 解决商誉减值测试需要金融建模的痛点，也可以用于评估企业价值、股权价值 [下载链接](https://pan.baidu.com/s/16znI7tiJAl_Ifsq3TP5xCg) 提取码:6666
 - [非上市股权投资自动估值](https://mp.weixin.qq.com/s/zLNDvApBZ2PBf6KqYcnJmg) -解决采用新金融工具准则需要对缺乏市场公开价格信息的非上市股权投资进行估值的痛点 [下载链接](https://pan.baidu.com/s/1-kdWTCpeFK-FTbu-VO0rkw)  提取码:6666
 - [预期信用损失一键建模](https://mp.weixin.qq.com/s/OROA3I79SwyhWMeb6elVPg) [下载](https://pan.baidu.com/s/1RFeCWWQlUdcRleFQVAo19g) 提取码:6666
+- [一键拆税:税前利润到所得税费用轻松调](https://mp.weixin.qq.com/s/99b4sOmrlJPpPqF2BY2Zvw)  [下载](https://pan.baidu.com/s/1Uq-lKOGQUcW3dxKtCNaraQ?pwd=6666) 
+- [一键现流:穷尽勾稽关系，底稿自动摆平](https://mp.weixin.qq.com/s/rEE7FHlyLzz0MtcD56Er9g) [下载](https://pan.baidu.com/s/1TQ-jwR7vtqNpfwH-1XiUJw?pwd=6666)
 - [Excel转Word插件](https://mp.weixin.qq.com/s/zdkkGN3Z4K7v2vaNbHS1Dw) -Excel选中源数据=转Word表格+智能排版，任意打开一个Excel随便选中一块区域都可以转Word表格 [下载](https://pan.baidu.com/s/1ui3qU-uMKUwwLcQTpKnNkQ) 提取码：6666
 
 ### 办公效率工具
