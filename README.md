@@ -137,6 +137,7 @@
 
 ### 综合数据查询平台
 
+- [oslaw](http://www.oslaw.net/) --集合了大量网站链接导航，包括效率工具、世界各地工商信息查询、知识产权查询、行政处罚、诉讼仲裁、法律法规、资质证照、资本市场、健康与生命科学等信息的导航网站。
 - [青藤数据](http://www.qingtengdata.com/) -审计相关数据查询网站。实务问答、税务问答、关键审计事项、公告查询、财务法规、税务法规。(免费)
 - [见微数据](https://www.jianweidata.com/) -公告查询、IPO反馈、问询。一个月试用期。(付费)
 - [荣大二郞神](http://doc.rongdasoft.com/) -公告、反馈，与见微相似。(付费)
@@ -289,6 +290,9 @@
 - [北交所官方培训课件0927（112页）](https://www.lanzouw.com/inde1ulwule) 密码：00
 - [北京证券交易所新政解读-中金公司-2021.9](https://www.lanzouw.com/ikRhqulwuyh) 密码:00
 - [及晓慧老师腾讯课堂](https://liarn.ke.qq.com/#tab=1&category=-1) -底稿法编制现金流量表
+- [全国中小企业股转系统-培训园地](http://www.neeq.com.cn/investor_guide/train_area.html) -包含会计准则、北交所上市法规等视频
+- [新租赁准则（上）](https://video.neeq.com.cn/sv/43d0c81f-182ed763488/43d0c81f-182ed763488.mp4) --KPMG执业技术部合伙人-新租赁准则（上）
+- [新租赁准则（下）](https://video.neeq.com.cn/sv/4a31233e-182ed7634b6/4a31233e-182ed7634b6.mp4) --KPMG执业技术部合伙人-新租赁准则（下） [PPT下载](http://www.neeq.com.cn/kjl/200012801.html) 
 
 ## 书籍
 
