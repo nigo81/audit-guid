@@ -68,7 +68,7 @@
 - [万能函证生成器](https://gitee.com/nigo81/audittool) - [使用方法](https://www.bilibili.com/video/BV1eK411u7cz)  采用根据不同Word自动生成Excel模版，只需要在生成的Excel模版中填写数据，点点按钮就能轻松生成
 - [方方格子](http://www.ffcell.com/) -Excel插件，包含一系列Excel实用功能
 - [审计报告排版工具](https://mp.weixin.qq.com/s?__biz=MzI0MjgxMzg1Mw==&mid=2247491654&idx=1&sn=4b374e054033b0a2d951a50e97031357&chksm=e9743eb4de03b7a2aed427500e294574bc80abb860f749afe7b835b2f6e4c73d200a42b91cb5&token=196403941&lang=zh_CN#rd) [下载链接](https://wwe.lanzoui.com/izTYZsopdej)
-- [底稿小帮手Excel加载项](https://mp.weixin.qq.com/s/EaxDjt-M8cgmYh3bh4Ilwg) -开发并整合了一些财审刷底稿过程中的一些实用功能，比如凑数字、财务数据的爬取，公式的快速处理等等 [下载链接](https://pan.baidu.com/s/1tA8XomHJOEOr-jHpQUiwVA?pwd=fc3k) 
+- [底稿小帮手](https://mp.weixin.qq.com/s/EaxDjt-M8cgmYh3bh4Ilwg) -开发并整合了一些财审刷底稿过程中的一些实用功能，比如凑数字、财务数据的爬取，公式的快速处理等等 [下载链接](https://www.gzaudit.com/) 
 - [word排版大杀器](https://mp.weixin.qq.com/s?__biz=MzI0MjgxMzg1Mw==&mid=2247489878&idx=1&sn=fd6471bdfcf1612fbac06bf4e573c4fb&chksm=e977c7a4de004eb22b53ee57cc2543c5466dc213e0d1d2fdff3a3e92f0bf9c41f09f268bb81e&token=196403941&lang=zh_CN#rd)  - word加载宏一些实用功能 [下载链接](https://pan.baidu.com/s/1p8oUSHNQCRbq18Kzo_aHLA)  提取码：oeia
 
 - [银行流水闭环核查工具](https://mp.weixin.qq.com/s/432rFH8lHHLCiUJpNZ4zag) 
@@ -82,6 +82,7 @@
 - [tushare金融数据](https://tushare.pro/) -金融数据接口（数据获取需要积分）
 - [akshare金融数据](https://www.akshare.xyz/zh_CN/latest/index.html) -免费的金融数据接口
 - [baostock金融数据](http://baostock.com/baostock/index.php) -免费的金融数据接口
+- [CEIC全球经济数据](https://www.ceicdata.com/zh-hans) -全球宏观经济数据
 
 ### IT审计工具
 
@@ -188,6 +189,7 @@
 - [美股招股说明书查询](https://www.sec.gov/edgar/searchedgar/companysearch.html) 
 
 ### 审计程序检索
+
 
 - [银行卡号归属地查询](http://www.guabu.com/bank/) 
 
