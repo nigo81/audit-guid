@@ -303,6 +303,7 @@
 - [中审众环陈奕蔚《监管规则适用指引-会计类第2号》《21年财政部发布案例、问题解答要点》](https://www.bilibili.com/video/BV1434y1r7e3) 
 - [审计效率提升课](https://space.bilibili.com/229695603/channel/detail?cid=86210) B站上讲解用excel常用函数以及VBA工具提高效率。
 - [IT审计技术手册](https://www.bilibili.com/video/BV1sF411i7LG) - python,sql网课教程
+- [天职国际公开课-财审Excel必知必会](https://www.bilibili.com/video/BV17t4y1K7yT) --excel免费实操课
 - [上海证券交易所公开课](https://pujiang.sse.com.cn/course/explore/open?code=GKKJGXSYZC) 
 - [北交所官方培训课件0927（112页）](https://www.lanzouw.com/inde1ulwule) 密码：00
 - [北京证券交易所新政解读-中金公司-2021.9](https://www.lanzouw.com/ikRhqulwuyh) 密码:00
