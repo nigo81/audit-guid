@@ -21,6 +21,7 @@
 
 <!-- vim-markdown-toc GFM -->
 
+
 * [工具](#工具)
     * [财务审计工具](#财务审计工具)
         * [财务数据工具](#财务数据工具)
@@ -74,6 +75,7 @@
 - [银行流水闭环核查工具](https://mp.weixin.qq.com/s/432rFH8lHHLCiUJpNZ4zag) 
 - [一键批量填未审TB](https://mp.weixin.qq.com/s/abF14LhH8qUgWweOPwUvUg) 
 - [信息批量获取(茶瓜子)](https://mp.weixin.qq.com/s/cQGEpWuGqgL4hup0_BSVgA) 
+- [财审办公小助手-工具格](https://pan.baidu.com/s/100W0acIlu245DQ3bSirP8Q) 主要适合财务、审计人员和与数字打交道人员用于辅助数据处理，简单易用。集中功能有：目录导航、公式转值、数字累加、正则、统一字体、数据验证等常用功能。 提取码：kunm
 
 
 #### 财务数据工具
