@@ -1,0 +1,536 @@
+* 审计军火库 Audit Guid                                                 
+:PROPERTIES:
+:CUSTOM_ID: 审计军火库-audit-guid
+:END:
+[[https://img.shields.io/badge/工具-tools-red.svg]]
+[[https://img.shields.io/badge/法规-refrence-orange.svg]]
+[[https://img.shields.io/badge/网课-learn-yellow.svg]]
+[[https://img.shields.io/badge/书籍-books-green.svg]]
+[[https://img.shields.io/badge/媒体-media-blue.svg]]
+[[https://img.shields.io/badge/众人拾柴火焰高-share-pink.svg]]
+
+本 =repo= 用来收集公开的一些审计资源、工具、视频、资料。
+
+希望这个平台能给大家提供一个方便，同时它也需要大家能够分享，让它不断的丰富。
+
+审计行业本是一个十分封闭的行业，缺少交流、沟通、分享。但我希望它能变得好一点，对于新入行的人有途径获取一些好的学习资源。
+
+如果你也是这样认为，可以贡献你的一份力。
+
+只需要点击
+[[https://gitee.com/nigo81/audit-guid/issues/new?issue%5Bassignee_id%5D=0&issue%5Bmilestone_id%5D=0][Issues]]，新建一个issue，然后把你觉得好的资源的名称、链接以及相关描述写出来就完成了。(注：单个文件建议使用[[https://www.lanzou.com/][蓝奏云]]没有提取码，也没有速度限制)
+
+当然，你如果会使用=git=，你也可以提交=pull requests=。
+
+* 目录                                                                  :TOC:
+- [[#审计军火库-audit-guid][审计军火库 Audit Guid]]
+- [[#工具][工具]]
+  - [[#财务审计工具][财务审计工具]]
+  - [[#it审计工具][IT审计工具]]
+  - [[#财务工具][财务工具]]
+  - [[#办公效率工具][办公效率工具]]
+- [[#实用网站][实用网站]]
+  - [[#综合数据查询平台][综合数据查询平台]]
+  - [[#工商信息查询][工商信息查询]]
+  - [[#ipo及上市公司定期公告查询][IPO及上市公司定期公告查询]]
+  - [[#招股说明书查询][招股说明书查询]]
+  - [[#审计程序检索][审计程序检索]]
+  - [[#事务所信息查询][事务所信息查询]]
+  - [[#税收法规查询][税收法规查询]]
+  - [[#处罚信息][处罚信息]]
+- [[#法规学习][法规学习]]
+  - [[#准则][准则]]
+  - [[#其它][其它]]
+- [[#网课][网课]]
+- [[#书籍][书籍]]
+- [[#自媒体][自媒体]]
+  - [[#微信公众号][微信公众号]]
+  - [[#微博][微博]]
+  - [[#b站][B站]]
+- [[#其它-1][其它]]
+
+* 工具
+:PROPERTIES:
+:CUSTOM_ID: 工具
+:END:
+** 财务审计工具
+:PROPERTIES:
+:CUSTOM_ID: 财务审计工具
+:END:
+- [[https://gitee.com/wwwwwc/audbox][审计工具箱]]
+  快递截图、工商截图、询证函处理、地址复核、海关查询、公告下载、地址补全集合成一个exe文件。
+
+- [[https://gitee.com/nigo81/tools-for-auditor][tools for auditor]]
+  Excel VBA编写的一系列工具（点击“克隆/下载”）
+  [[https://github.com/nigo81/tools-for-auditor][github链接]]
+
+- [[https://gitee.com/nigo81/audittool][万能函证生成器]] -
+  [[https://www.bilibili.com/video/BV1eK411u7cz][使用方法]]
+  采用根据不同Word自动生成Excel模版，只需要在生成的Excel模版中填写数据，点点按钮就能轻松生成
+
+- [[http://www.ffcell.com/][方方格子]]
+  -Excel插件，包含一系列Excel实用功能
+
+- [[https://mp.weixin.qq.com/s?__biz=MzI0MjgxMzg1Mw==&mid=2247491654&idx=1&sn=4b374e054033b0a2d951a50e97031357&chksm=e9743eb4de03b7a2aed427500e294574bc80abb860f749afe7b835b2f6e4c73d200a42b91cb5&token=196403941&lang=zh_CN#rd][审计报告排版工具]]
+  [[https://wwe.lanzoui.com/izTYZsopdej][下载链接]]
+
+- [[https://mp.weixin.qq.com/s/EaxDjt-M8cgmYh3bh4Ilwg][底稿小帮手]]
+  -开发并整合了一些财审刷底稿过程中的一些实用功能，比如凑数字、财务数据的爬取，公式的快速处理等等
+  [[https://www.gzaudit.com/][下载链接]]
+
+- [[https://mp.weixin.qq.com/s?__biz=MzI0MjgxMzg1Mw==&mid=2247489878&idx=1&sn=fd6471bdfcf1612fbac06bf4e573c4fb&chksm=e977c7a4de004eb22b53ee57cc2543c5466dc213e0d1d2fdff3a3e92f0bf9c41f09f268bb81e&token=196403941&lang=zh_CN#rd][word排版大杀器]] -
+  word加载宏一些实用功能
+  [[https://pan.baidu.com/s/1p8oUSHNQCRbq18Kzo_aHLA][下载链接]]
+  提取码：oeia
+
+- [[https://mp.weixin.qq.com/s/432rFH8lHHLCiUJpNZ4zag][银行流水闭环核查工具]]
+
+- [[https://mp.weixin.qq.com/s/abF14LhH8qUgWweOPwUvUg][一键批量填未审TB]]
+
+- [[https://mp.weixin.qq.com/s/cQGEpWuGqgL4hup0_BSVgA][信息批量获取(茶瓜子)]]
+
+- [[https://pan.baidu.com/s/100W0acIlu245DQ3bSirP8Q][财审办公小助手-工具格]]
+  主要适合财务、审计人员和与数字打交道人员用于辅助数据处理，简单易用。集中功能有：目录导航、公式转值、数字累加、正则、统一字体、数据验证等常用功能。
+  提取码：kunm
+
+*** 财务数据工具
+:PROPERTIES:
+:CUSTOM_ID: 财务数据工具
+:END:
+- [[https://pan.baidu.com/s/1qtkLv475LvqGcOHKuK1uxw][同行业财务指标查询工具]]
+  -(密码: gkp5)Excel
+  VBA写的宏获取新浪财经指标数据包含在[[https://github.com/nigo81/tools-for-auditor][tools
+  for auditor]]中。
+- [[https://www.gtarsc.com/][国泰君安数据库]]
+  -查询上市公司财务数据（付费），
+  [[https://mp.weixin.qq.com/s/_d42SKSUyWBKoM1JRNbQMA][使用方法]] 。
+- [[https://tushare.pro/][tushare金融数据]]
+  -金融数据接口（数据获取需要积分）
+- [[https://www.akshare.xyz/zh_CN/latest/index.html][akshare金融数据]]
+  -免费的金融数据接口
+- [[http://baostock.com/baostock/index.php][baostock金融数据]]
+  -免费的金融数据接口
+- [[https://www.ceicdata.com/zh-hans][CEIC全球经济数据]]
+  -全球宏观经济数据
+
+** IT审计工具
+:PROPERTIES:
+:CUSTOM_ID: it审计工具
+:END:
+- [[https://www.mysql.com/downloads/][mysql]]
+  -免费数据库，可以对大数据量数据进行处理分析，需要掌握SQL语言。
+- [[https://wwe.lanzoui.com/isqHYwbsfab][navicat12免安装]]
+  -数据库图形化管理工具，可搭配mysql使用。
+- [[https://www.w3school.com.cn/sql/index.asp][SQL基础语法]]
+  -快速掌握SQL基本语法。
+- [[https://sqlzoo.net/][SQL练习网站]] -通过练习掌握SQL用法。
+- [[https://www.liaoxuefeng.com/wiki/1016959663602400][python教程]]
+  -免费python教程。
+- [[https://www.bilibili.com/video/BV1sF411i7LG][IT审计技术手册]] -
+  python,sql网课教程
+- [[https://mp.weixin.qq.com/s/p4Fl459LdeC5sovyoID0wQ][clickhouse]]
+  -大数据工具 [[https://clickhouse.com/docs/zh/][官方文档]]
+- [[https://powerbi.microsoft.com/zh-cn/downloads/][power bi]]
+  -微软出的免费的BI工具。
+- [[https://superset.apache.org/][superset]]
+  -免费的可视化数据分析工具(BI工具)，基于python。
+- [[https://gephi.org/][gephi]] -免费的网络关系分析工具。
+- [[https://plotly.com/python/][plotly]] -免费的数据可视化库(python库)。
+- [[https://github.com/DQinYuan/chinese_province_city_area_mapper][地址解析为省市区]]
+  -一个用于提取简体中文字符串中省，市和区并能够进行映射，检验和简单绘图的python模块。
+- [[https://gitee.com/lionsoul/ip2region][IP地址解析]] -ip2region
+  准确率99.9%的离线IP地址定位库。
+- [[https://www.ipip.net/ip.html][IP地址查询网站]]
+  -IPIP网站查询IP地址，解析出其物理地址。
+- [[https://github.com/ls0f/phone][手机号码归属地解析]]
+  -手机号码归属地库。
+- [[https://gitee.com/xusimin/area][行政区划数据库]]
+  -全国行政区划，省市区镇四级，包含名称、完整名称、经纬度、区号、邮编、行政区划代码、拼音。
+- [[https://gitee.com/nigo81/invoiceocr][批量识别增值税发票]]
+  利用paddleocr批量识别并提取发票信息
+- [[https://mp.weixin.qq.com/s?__biz=MzI0MjgxMzg1Mw==&mid=2247491671&idx=1&sn=8e4dd10b14d9e0195e7ebb49277cbed0&chksm=e9743ea5de03b7b378694673d2303918b378febed48a5b0bd2a76bfdfc1ab6f52764f903ed26&token=894284587&lang=zh_CN#rd][BOM穿透]]
+  利用树对生产企业的BOM关系进行穿透
+- [[https://mp.weixin.qq.com/s?__biz=MzI0MjgxMzg1Mw==&mid=2247491615&idx=1&sn=1bc06e3e981929db2a84deceb3a82a6c&chksm=e9743eedde03b7fb411286e3b72d8d10e60b5913d7ade2ec3a8a3dd39c132ddd6fd37608f356&token=894284587&lang=zh_CN#rd][公司名称批量模糊匹配]]
+  利用fuzzywuzzy对两期账套的往来科目公司名称进行模糊匹配
+
+** 财务工具
+:PROPERTIES:
+:CUSTOM_ID: 财务工具
+:END:
+- [[https://mp.weixin.qq.com/s/nuV-imxFZSxHXJ4daT9SQw][新租赁准则分录分成]]
+  工具
+  [[https://pan.baidu.com/share/init?surl=GWzJQnzw5AeNXgMvqD-DcA][下载链接]]
+  提取码：6666
+- [[https://mp.weixin.qq.com/s/SBX4UOOS8WwS66LVMU9jVQ][长期资产减值]]
+  解决资产组减值测试需要金融建模的痛点
+  [[https://pan.baidu.com/s/19sC2Off26iNmnCmwSmgQdQ][下载链接]]
+  提取码：6666
+- [[https://mp.weixin.qq.com/s/Ugb3hw6d7iPcuhd-YNRYuw][商誉减值]]
+  解决商誉减值测试需要金融建模的痛点，也可以用于评估企业价值、股权价值
+  [[https://pan.baidu.com/s/16znI7tiJAl_Ifsq3TP5xCg][下载链接]]
+  提取码:6666
+- [[https://mp.weixin.qq.com/s/zLNDvApBZ2PBf6KqYcnJmg][非上市股权投资自动估值]]
+  -解决采用新金融工具准则需要对缺乏市场公开价格信息的非上市股权投资进行估值的痛点
+  [[https://pan.baidu.com/s/1-kdWTCpeFK-FTbu-VO0rkw][下载链接]]
+  提取码:6666
+- [[https://mp.weixin.qq.com/s/OROA3I79SwyhWMeb6elVPg][预期信用损失一键建模]]
+  [[https://pan.baidu.com/s/1RFeCWWQlUdcRleFQVAo19g][下载]] 提取码:6666
+- [[https://mp.weixin.qq.com/s/99b4sOmrlJPpPqF2BY2Zvw][一键拆税:税前利润到所得税费用轻松调]]
+  [[https://pan.baidu.com/s/1Uq-lKOGQUcW3dxKtCNaraQ?pwd=6666][下载]]
+- [[https://mp.weixin.qq.com/s/rEE7FHlyLzz0MtcD56Er9g][一键现流:穷尽勾稽关系，底稿自动摆平]]
+  [[https://pan.baidu.com/s/1TQ-jwR7vtqNpfwH-1XiUJw?pwd=6666][下载]]
+- [[https://mp.weixin.qq.com/s/zdkkGN3Z4K7v2vaNbHS1Dw][Excel转Word插件]]
+  -Excel选中源数据=转Word表格+智能排版，任意打开一个Excel随便选中一块区域都可以转Word表格
+  [[https://pan.baidu.com/s/1ui3qU-uMKUwwLcQTpKnNkQ][下载]] 提取码：6666
+
+** 办公效率工具
+:PROPERTIES:
+:CUSTOM_ID: 办公效率工具
+:END:
+- [[https://www.ghisler.com/][total commander]]
+  -强大的资源管理器，可以提高操作文件的效率。(免费的够用)
+  [[https://wwe.lanzoui.com/i61cjtp24hc][使用介绍]]
+- [[https://mp.weixin.qq.com/s/i8ouQ7XeKh1Db_dk6nOeIg][capsez]]
+  --使用AHK脚本自定义快捷键，提高total commander,Excel等软件的操作效率
+  [[https://wwe.lanzoui.com/i61cjtp24hc][下载地址]]
+- [[https://u.tools/][utools]]
+  -非常强大的一个应用启动器，同时也是生产力工具集，集成了很多有用的小插件。(免费)
+- [[https://www.listary.com/download][listary]]
+  -Windows搜索工具,可以快速搜索电脑文件、定位文件、执行智能命令、记录访问历史、快速切换目录、收藏常用项目等
+- [[https://getquicker.net/][Quicker]]
+  -办公效率工具，可以为任何常用内容建立捷径，也可以自己组合动作去完成某个特定的功能。不善于创造动作的同学可以使用他人分享的动作。
+- [[https://www.voidtools.com/zh-cn/][Everything]]
+  -基于名称快速定位文件和文件夹，是我见过的速度最快的文件名搜索软件，只要文件或文件夹命名无误，几个十万个文件，可以在几秒内完成索引。
+- [[https://www.huochaipro.com/][火柴]]
+  -搜索工具:能够做到文件达到秒搜，局域网秒传文件，还支持各种系统命令命令，迅速打开我们的电脑软件，支持网络直达功能
+- [[http://docfetcher.sourceforge.net/zh/index.html][docfetcher]]
+  可以检索文件(pdf\word等)内容的搜索工具
+  [[https://mp.weixin.qq.com/s/fhRNSWzeWfXCaxD5ECUDfg][介绍]]
+  [[https://c1n.cn/BE7XE][搜索技巧]]
+- [[https://obsidian.md/][Obsidian]]
+  -强大的免费双链式笔记工具，搭配坚果云可同步，适合建立自己的知识库。
+  [[https://www.bilibili.com/video/BV1P64y1q7ND?from=search&seid=10079939813401286196&spm_id_from=333.337.0.0][简介视频]]
+  ，还有很多免费的插件，适合用来建立自己的审计知识库。
+- [[https://github.com/jgraph/drawio-desktop/releases][drawio]]
+  -免费开源的流程图绘制工具，桌面客户端，可以完全替代visio。
+  [[https://wwe.lanzoui.com/b01osg6ef][国内下载]] 密码:camc
+- [[https://otp.landian.vip/zh-cn/][office tool plus]]
+  一键安装office软件，并激活，免费。
+- [[https://www.xmind.cn/][xmind]]
+  思维导图工具，适合整理想法，免费版足够使用。
+- [[https://www.dida365.com/][滴答清单]]
+  -全平台GTD软件，适合日常任务管理，建议先阅读
+  [[https://book.douban.com/subject/26612471/][《搞定Ⅰ
+  无压工作的艺术》]]。
+- [[https://c1n.cn/DLRLh][super productivity]]
+  -开源免费的清单及时间记录工具
+
+* 实用网站
+:PROPERTIES:
+:CUSTOM_ID: 实用网站
+:END:
+** 综合数据查询平台
+:PROPERTIES:
+:CUSTOM_ID: 综合数据查询平台
+:END:
+- [[http://www.oslaw.net/][oslaw]]
+  --集合了大量网站链接导航，包括效率工具、世界各地工商信息查询、知识产权查询、行政处罚、诉讼仲裁、法律法规、资质证照、资本市场、健康与生命科学等信息的导航网站。
+- [[http://www.qingtengdata.com/][青藤数据]]
+  -审计相关数据查询网站。实务问答、税务问答、关键审计事项、公告查询、财务法规、税务法规。(免费)
+- [[https://www.jianweidata.com/][见微数据]]
+  -公告查询、IPO反馈、问询。一个月试用期。(付费)
+- [[http://doc.rongdasoft.com/][荣大二郞神]]
+  -公告、反馈，与见微相似。(付费)
+- [[https://bbs.esnai.com/forum-7-1.html][会计视野论坛]]
+  -审计行业最专业的实务问题交流平台。
+- [[https://www.hanghangcha.com/][行行查]] -行研报告
+
+** 工商信息查询
+:PROPERTIES:
+:CUSTOM_ID: 工商信息查询
+:END:
+- [[https://www.tianyancha.com/][天眼查]]
+- [[https://www.creditchina.gov.cn][信用中国]]
+- [[https://amr.sz.gov.cn/outer/entSelect/gs.html][深圳商事主体查询]]
+- [[https://opencorporates.com/][国外公司的工商信息]] --
+  数据涵盖129国家/地区的1.6亿家公司
+- [[https://www.icris.cr.gov.hk/csci/][香港公司的工商信息]]
+- [[https://findbiz.nat.gov.tw/fts/query/QueryBar/queryInit.do][台湾公司的工商信息]]
+- [[https://www.acra.gov.sg/home/][新加坡公司的工商信息]]
+- [[https://www.bvifsc.vg/][英属维尔京群岛的工商信息]]
+- [[https://www.uid.admin.ch/search.aspx?lang=en][瑞士的工商信息]]
+- [[https://www.ssm.com.my/Pages/Home.aspx][马来西亚的工商信息]]
+- [[https://www.ic.gc.ca/app/scr/cc/CorporationsCanada/fdrlCrpSrch.html?locale=en_CA][加拿大的工商信息]]
+- [[http://www.wysk.com/index/][美国的工商信息]]
+- [[https://beta.companieshouse.gov.uk/][英国的工商信息]]
+- [[https://abr.business.gov.au/][澳大利亚的工商信息]]
+- [[http://www.ved.gov.ru/eng/companies/business/][俄罗斯的工商信息]]
+- [[https://www.firmenwissen.de/index.html][德国的工商信息]]
+- [[http://www.mca.gov.in/][印度的工商信息]]
+- [[https://www.houjin-bangou.nta.go.jp/][日本的工商信息]]
+- [[https://www.kvk.nl/][开曼群岛企业查询]]
+- [[https://ngo.mps.gov.cn/ngo/portal/index.do][境外非政府组织查询]]
+- [[http://www.gsxt.gov.cn/index.html][国家企业信用信息公示系统]]
+- [[http://zwfw.samr.gov.cn/wyc/][国家市场监督管理总局]]
+- [[http://xwqy.gsxt.gov.cn][小微企业名录]]
+
+** IPO及上市公司定期公告查询
+:PROPERTIES:
+:CUSTOM_ID: ipo及上市公司定期公告查询
+:END:
+- [[http://www.cninfo.com.cn/new/index][巨潮资讯网]]
+- [[http://eid.csrc.gov.cn/][中国证券监督管理委员会（信息披露平台）]]
+- [[http://www.csrc.gov.cn/pub/newsite/][中国证券监督管理委员会]]
+- [[http://www.neeq.com.cn/disclosure/overview_information.html][股转系统公告查询]]
+- [[http://www.csrc.gov.cn/pub/newsite/zxgx/jigbsdt/][中小板、主板的排队名单]]
+- [[http://kcb.sse.com.cn/renewal/][科创板名单及反馈查询]]
+- [[http://listing.szse.cn/projectdynamic/ipo/index.html][创业板名单及反馈查询]]
+- [[http://www.neeq.com.cn/zone/audit/project_news.html][精选层名单及反馈查询]]
+
+** 招股说明书查询
+:PROPERTIES:
+:CUSTOM_ID: 招股说明书查询
+:END:
+- [[http://eid.csrc.gov.cn/1010/index.html][A股招股说明书查询]]
+- [[http://www.hkexnews.hk/APP/SEHKAppMainIndex_c.htm][港股招股说明书查询]]
+- [[https://www.sec.gov/edgar/searchedgar/companysearch.html][美股招股说明书查询]]
+
+** 审计程序检索
+:PROPERTIES:
+:CUSTOM_ID: 审计程序检索
+:END:
+- [[http://www.guabu.com/bank/][银行卡号归属地查询]]
+
+*** 汇率查询
+:PROPERTIES:
+:CUSTOM_ID: 汇率查询
+:END:
+- [[http://www.safe.gov.cn/safe/rmbhlzjj/index.html][国家外汇管理局]]
+- [[http://www.pbc.gov.cn/rmyh/108976/index.html][中国人民银行]]
+- [[http://www.chinamoney.com.cn/][中国货币网]]
+  -有汇率、利率等相关信息，由中国外汇交易中心主办。
+
+*** 利率查询
+:PROPERTIES:
+:CUSTOM_ID: 利率查询
+:END:
+- [[http://data.bank.hexun.com/yhcj/cj.aspx?r=0000000001000000&t=12&page=24][LIBOR历史利率]]
+- [[http://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/125838/125888/index.html][贷款基准利率查询]]
+- [[http://yield.chinabond.com.cn/cbweb-mn/yield_main?locale=zh_CN][中国债券信息网-中债收益率]]
+- [[http://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125440/index.html][贷款利率和LPR]]
+- [[http://data.bank.hexun.com/yhcj/cj.aspx][银行拆借利率]] ####
+  海关信息查询
+- [[http://customs.gjzwfw.gov.cn][海关总署政府服务窗口]]
+- [[http://app.gjzwfw.gov.cn/jmopen/webapp/html5/tglzztPC/index.html][通关流转状态]]
+- [[http://app.gjzwfw.gov.cn/jmopen/webapp/html5/cdtgztPC/index.html][舱单通关状态查询]]
+- [[http://app.gjzwfw.gov.cn/jmopen/webapp/html5/jckspslPC/index.html][进出口商品税率查询]]
+- [[http://app.gjzwfw.gov.cn/jmopen/webapp/html5/bengzmPC/index.html][本国子目查询]]
+- [[http://app.gjzwfw.gov.cn/jmopen/webapp/html5/szsmzsPC/index.html][税则商品品目注释]]
+- [[http://app.gjzwfw.gov.cn/jmopen/webapp/html5/gljdcdPC/index.html][归类决定裁定]]
+- [[http://app.gjzwfw.gov.cn/jmopen/webapp/html5/zhongdspcxPC/index.html][重点商品查询]]
+- [[http://app.gjzwfw.gov.cn/jmopen/webapp/html5/smshPC/index.html][税目税号查询]]
+- [[http://app.gjzwfw.gov.cn/jmopen/webapp/html5/cdxxPC/index.html][舱单信息]]
+- [[http://app.gjzwfw.gov.cn/jmopen/webapp/html5/qyxigsPC/index.html][企业信息公示]]
+  #### 商标专利
+- [[https://www.cnipa.gov.cn/col/col1510/index.html][国家知识产权]]
+- [[http://pss-system.cnipa.gov.cn/sipopublicsearch/portal/uiIndex.shtml][专利检索及分析系统]]
+- [[http://cpquery.cnipa.gov.cn][中国及多国专利审查信息查询]]
+- [[http://epub.cnipa.gov.cn][中国专利公布公告]]
+- [[http://sbj.cnipa.gov.cn/sbcx/][商标查询]]
+- [[http://wssq.sbj.cnipa.gov.cn:9080/tmsve/zccw_getMain.xhtml][商标注册审查决定文书]]
+- [[http://wssq.sbj.cnipa.gov.cn:9080/tmsve/yycw_getMain.xhtml][商标异议决定文书]]
+- [[http://wssq.sbj.cnipa.gov.cn:9080/tmsve/pingshen_getMain.xhtml][商标评审裁定/决定文书]]
+- [[http://wsgs.sbj.cnipa.gov.cn:9080/tmpu/][商标注册证明公示]]
+- [[http://wsgg.sbj.cnipa.gov.cn:9080/tmann/annInfoView/homePage.html][商标公告]]
+  #### 动产抵押查询
+- [[http://dcdy.gsxt.gov.cn/loginSydq/index.xhtml?isNotLogin=1][全国市场监管动产抵押登记业务系统]]
+  #### 国家科技成果库登记结果查询
+- [[https://www.tech110.net/portal.php?mod=list&catid=538][国家科技成果库登记结果查询]]
+  #### 征信报告查询
+- [[http://www.pbccrc.org.cn/][中国人民银行征信中心]] #### 海外银行函证
+- [[https://zs.confirmation.com/][comformation]] #### 诉讼
+- [[http://zhixing.court.gov.cn/search/][全国法院被执行人信息查询]]
+- [[http://wenshu.court.gov.cn/][中国裁判文书网]]
+- [[http://zxgk.court.gov.cn/][中国执行信息公开网]]
+
+** 事务所信息查询
+:PROPERTIES:
+:CUSTOM_ID: 事务所信息查询
+:END:
+- [[http://mof.gjzwfw.gov.cn][财政部政务服务窗口]]
+- [[http://app.gjzwfw.gov.cn/jmopen/webapp/html5/zqsxxcx/index.html][证券资格事务所信息查询]]
+- [[http://app.gjzwfw.gov.cn/jmopen/webapp/html5/swsxxcx/index.html][事务所信息查询]]
+- [[http://app.gjzwfw.gov.cn/jmopen/webapp/html5/zckjscx/index.html][注册会计师信息查询]]
+- [[http://app.gjzwfw.gov.cn/jmopen/webapp/html5/swscmcx/index.html][事务所重名查询]]
+- [[http://app.gjzwfw.gov.cn/jmopen/webapp/html5/dljzjgcx/index.html][代理记账机构查询]]
+
+** 税收法规查询
+:PROPERTIES:
+:CUSTOM_ID: 税收法规查询
+:END:
+- [[http://www.chinatax.gov.cn/chinatax/n810346/index.html][国家税务总局]]
+- [[http://www.chinatax.gov.cn/chinatax/n810341/n810825/index.html?title=][税收政策库]]
+- [[http://www.shui12366.com/index][中税答疑官网]] -
+  税收政策、行业税收、税收优惠、法院判例
+- [[https://inv-veri.chinatax.gov.cn][国家税务总局全国增值税发票查验平台]]
+- [[http://hd.chinatax.gov.cn/nszx/InitCredit.html][信用A级纳税人查询]]
+- [[http://www.chinatax.gov.cn/chinatax/c101249/n2020011502/index.html][重大税收违法失信案件信息查询]]
+- [[https://12366.chinatax.gov.cn/sszyfw/bulletinBoard/main][涉税专业服务机构查询]]
+- [[http://www.chinatax.gov.cn/n810346/index.html][出口退税率查询]]
+- [[http://www.chinatax.gov.cn/chinatax/n810341/n810770/index.html][税收条约]]
+- [[http://www.chinatax.gov.cn/chinatax/n810341/n810765/index.html][税务公报]]
+
+** 处罚信息
+:PROPERTIES:
+:CUSTOM_ID: 处罚信息
+:END:
+- [[https://www.investor.org.cn/was5/web/search?channelid=223359][上市公司违法违规信息]]
+- [[https://www.investor.org.cn/was5/web/search?channelid=223359][挂牌公司违法违规信息]]
+- [[https://www.investor.org.cn/was5/web/search?channelid=223359][中介机构违法违规信息]]
+- [[http://cfws.samr.gov.cn][中国市场监督行政处罚文书网]]
+
+* 法规学习
+:PROPERTIES:
+:CUSTOM_ID: 法规学习
+:END:
+[[https://tujiabing-1258622425.cos.ap-chengdu.myqcloud.com/image_2022-01-05-15-53-33.png]]
+会计准则、应用指南、准则解释、实施问答、应用案例、证监会会计监管风险提示合集(截止2021年)
+[[https://pan.baidu.com/s/1x9puWTGh-E-_Umwei6jTkw?pwd=dc3w][下载]]
+提取码：dc3w
+
+- [[http://www.tzyhj.cn/rule.html][投资银行业务法规汇编]]
+
+** 准则
+:PROPERTIES:
+:CUSTOM_ID: 准则
+:END:
+- [[http://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/][财政部-企业会计准则]]
+- [[http://kjs.mof.gov.cn/zt/kjzzss/qykjzzjs/][财政部-企业会计准则解释]]
+- [[http://kjs.mof.gov.cn/zt/kjzzss/srzzzq/][财政部-发布收入准则、租赁准则、股份支付准则应用案例]]
+- [[http://kjs.mof.gov.cn/zt/kjzzss/sswd/srzzsswd/][财政部-收入准则实施问答]]
+- [[http://kjs.mof.gov.cn/zt/kjzzss/sswd/jkwd/][财政部-借款费用准则实施问答]]
+- [[http://www.mof.gov.cn/gongzhongcanyu/zixunfankui/][财政部-其他相关实施问答]]
+- [[https://wwe.lanzoui.com/ib3yQropyid][企业会计准则及应用指南2021年5月修订-下载]]
+- [[https://pan.baidu.com/s/1YNI5eK_kx1BnJmdZ53pPHQ][中国注册会计师审计准则2019-下载]]
+  -（提取码：f4d9）-2019年发布的18项中国注册会计师审计准则+2020发布的5项中国注册会计师审计准则问题解答
+- [[https://www.lanzoui.com/i7um6ch][中国注册会计师审计准则应用指南-下载]]
+- [[http://www.casplus.com/standard/standard.asp#ifrs][国际财务报告准则（IFRS）中英文版本对照查询网站]]
+
+** 其它
+:PROPERTIES:
+:CUSTOM_ID: 其它
+:END:
+- [[http://www.csrc.gov.cn/newsite/ztzl/jggzsyzy/202011/t20201113_386201.html][监管规则适用指引------会计类第1号]]
+- [[http://www.csrc.gov.cn/pub/newsite/fxjgb/fxbzcfg/fxbfxjgwd/202006/t20200610_377997.html][中国证监会发行审核业务问答]]
+- [[http://www.csrc.gov.cn/pub/newsite/kjb/kjbzcgf/xsjzj/sjpgjggz/][中国证监会监管规则]]
+- [[http://www.csrc.gov.cn/csrc/c101925/zfxxgk_zdgk.shtml?channelid=29ae08ca97d44d6ea365874aa02d44f6][中国证券监督管理委员会政府信息公开]]
+- [[http://www.bicpa.org.cn/zyfwz/zyfw/index.html][北京注册会计师协会专业技术委员会
+  专家提示]]
+- [[http://www.casplus.com/home.asp][德勤发布会计研究]]
+* 网课
+:PROPERTIES:
+:CUSTOM_ID: 网课
+:END:
+- [[https://www.bilibili.com/video/BV1Ts411L7mz?from=search&seid=4193060424620229640][瑞华会计师事务所合伙人手把手教你审计实操]]
+  B站上提供的审计实操课程。
+- [[https://www.bilibili.com/video/BV1434y1r7e3][中审众环陈奕蔚《监管规则适用指引-会计类第2号》《21年财政部发布案例、问题解答要点》]]
+- [[https://space.bilibili.com/229695603/channel/detail?cid=86210][审计效率提升课]]
+  B站上讲解用excel常用函数以及VBA工具提高效率。
+- [[https://www.bilibili.com/video/BV1sF411i7LG][IT审计技术手册]] -
+  python,sql网课教程
+- [[https://www.bilibili.com/video/BV17t4y1K7yT][天职国际公开课-财审Excel必知必会]]
+  --excel免费实操课
+- [[https://pujiang.sse.com.cn/course/explore/open?code=GKKJGXSYZC][上海证券交易所公开课]]
+- [[https://www.lanzouw.com/inde1ulwule][北交所官方培训课件0927（112页）]]
+  密码：00
+- [[https://www.lanzouw.com/ikRhqulwuyh][北京证券交易所新政解读-中金公司-2021.9]]
+  密码:00
+- [[https://liarn.ke.qq.com/#tab=1&category=-1][及晓慧老师腾讯课堂]]
+  -底稿法编制现金流量表
+- [[http://www.neeq.com.cn/investor_guide/train_area.html][全国中小企业股转系统-培训园地]]
+  -包含会计准则、北交所上市法规等视频
+- [[https://video.neeq.com.cn/sv/43d0c81f-182ed763488/43d0c81f-182ed763488.mp4][新租赁准则（上）]]
+  --KPMG执业技术部合伙人-新租赁准则（上）
+- [[https://video.neeq.com.cn/sv/4a31233e-182ed7634b6/4a31233e-182ed7634b6.mp4][新租赁准则（下）]]
+  --KPMG执业技术部合伙人-新租赁准则（下）
+  [[http://www.neeq.com.cn/kjl/200012801.html][PPT下载]]
+
+* 书籍
+:PROPERTIES:
+:CUSTOM_ID: 书籍
+:END:
+- [[https://weread.qq.com/][微信读书]]
+  -微信读书移动端APP，可以免费看很多正版书籍，适合通勤路上学习。
+- [[https://www.jiumodiary.com/][jiumo搜书]] -免费下载中文书籍
+- [[http://libgen.rs/][Library Genesis]] -免费下载英文书籍
+- [[https://book.douban.com/subject/26746460/][让数字说话]]
+  -作者以浅显易懂的语言、幽默诙谐的比喻和旁征博引的故事引领我们开启一段奇妙的阅读旅程。
+- [[https://book.douban.com/subject/26871620/][会计准则内在逻辑]]
+  -理解会计准则原理的不错的书。
+- [[https://wwe.lanzoui.com/iB6l3rpmbaf][审计excel技能手册]]
+  -详细讲解了审计工作中需要用到的Excel基本技能，比较推荐。
+- [[https://book.douban.com/subject/34886553/][审计效率手册]]
+  -讲解了Excel函数和Excel VBA制作一些审计工具。
+- [[https://bbs.esnai.com/thread-5413973-1-1.html][瑞华研究2010～2019汇编]]
+  -审计实务问题汇编
+- [[https://wwe.lanzoui.com/iBRuSrpljuh][中审众环研究]]
+- [[https://wwe.lanzoui.com/i3PgOrpljob][上市公司执行企业会计准则案例解析（2020）]]
+- [[https://wwe.lanzoui.com/i0tYwrpljna][IPO审核问答汇编20210716]]
+- [[https://www.aliyundrive.com/s/bSk7pyuSdqQ][行政事业单位审计常见问题200案例]]
+  -(提取码：gkt0)
+- [[https://book.douban.com/subject/30587232/][财务报表审计中对信息系统的考虑]]
+- [[https://pan.baidu.com/s/1pJ7h6ZBAvRStgGi9nYSYEg][中国证监会关于会计师事务所从事证券服务业务检查工作指引]]
+  提取码：z6jn
+- [[https://wwe.lanzoui.com/iz8wMvo3ugj][热点难点会计问题专题研究（2021）-天职国际]]
+- [[https://wwe.lanzoui.com/ipeEpvo491e][财务炼金术]]
+  -主要介绍通过行业信息以及报表数据识别是否有造假
+- [[https://book.douban.com/subject/35922721/][IT审计：用SQL+Python提升工作效率]]
+  -主要介绍利用SQL+Python进行数据分析
+
+* 自媒体
+:PROPERTIES:
+:CUSTOM_ID: 自媒体
+:END:
+** 微信公众号
+:PROPERTIES:
+:CUSTOM_ID: 微信公众号
+:END:
+- 会计雅苑 - 审计行业热点资讯（每日更新）
+- 审计之家 - 审计行业热点资讯（每日更新）
+- 季丰的会计师驿站 - 行业资讯(每日更新)
+- 逆行的狗 - 效率工具、个人感悟、IT审计（每日更新）
+- 田川不是四川 -审计实务及漫画（更新频率较低）
+- 效率视界 -审计工具(每周更新)
+- 茶瓜子的休闲馆 -vba实用工具(每周更新)
+- 行走的审计汪 -审计实务（每日更新）
+- 数据化审计 -信息技术在审计中的运用(每周更新)
+- 世外数豆人 -投行效率工具(每周更新)
+- 关锁匠 -IT审计资讯(更新频率较低)
+- 会计小王子 -财务中级考试(更新频率较低)
+
+** 微博
+:PROPERTIES:
+:CUSTOM_ID: 微博
+:END:
+- 待大家提供(本人不怎么用微博)
+
+** B站
+:PROPERTIES:
+:CUSTOM_ID: b站
+:END:
+- [[https://space.bilibili.com/229695603][nigo81]]
+  -逆行的狗的B站号，信息技术、效率软件
+- 待大家提供
+
+* 其它
+:PROPERTIES:
+:CUSTOM_ID: 其它-1
+:END:
+- [[https://wwe.lanzoui.com/idPyVi8jtfe][各会计科目审计经验总结]]
+  -林铖总结的每个科目关注点、需要资料、提高效率方法。
+- [[https://wwe.lanzoui.com/b01nyhiod][会计视野论坛陈版主答疑汇总]]
+  -(密码:1mki)论坛CPA业务探讨版块问答的汇总。
+- [[https://wwe.lanzoui.com/ib5c2ronong][合并财务报表理论与实务--复杂股权结构与成本法合并]]
+  -及晓慧老师分享的合并报表课件。
+- [[https://wwe.lanzoui.com/ia4Vnvo3l2b][现金流量表-底稿法课件.pptx]] --
+  及晓慧老师的现金流量表课件。
