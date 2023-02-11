@@ -440,6 +440,8 @@
   python,sql网课教程
 - [[https://www.bilibili.com/video/BV17t4y1K7yT][天职国际公开课-财审Excel必知必会]]
   --excel免费实操课
+- [[https://www.bilibili.com/video/BV1s14y1c769][天职国际公开课-财审Word必知必会]] --word免费课程
+  
 - [[https://pujiang.sse.com.cn/course/explore/open?code=GKKJGXSYZC][上海证券交易所公开课]]
 - [[https://www.lanzouw.com/inde1ulwule][北交所官方培训课件0927（112页）]]
   密码：00
