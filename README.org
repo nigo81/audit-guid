@@ -9,6 +9,7 @@
 [[https://img.shields.io/badge/媒体-media-blue.svg]]
 [[https://img.shields.io/badge/众人拾柴火焰高-share-pink.svg]]
 
+
 本 =repo= 用来收集公开的一些审计资源、工具、视频、资料。
 
 希望这个平台能给大家提供一个方便，同时它也需要大家能够分享，让它不断的丰富。
@@ -20,7 +21,7 @@
 只需要点击
 [[https://gitee.com/nigo81/audit-guid/issues/new?issue%5Bassignee_id%5D=0&issue%5Bmilestone_id%5D=0][Issues]]，新建一个issue，然后把你觉得好的资源的名称、链接以及相关描述写出来就完成了。(注：单个文件建议使用[[https://www.lanzou.com/][蓝奏云]]没有提取码，也没有速度限制)
 
-当然，你如果会使用=git=，你也可以提交=pull requests=。
+当然，你如果会使用 =git= ，你也可以提交 =pull requests= 。
 
 * 目录                                                                  :TOC:
 - [[#审计军火库-audit-guid][审计军火库 Audit Guid]]
@@ -64,9 +65,8 @@
   Excel VBA编写的一系列工具（点击“克隆/下载”）
   [[https://github.com/nigo81/tools-for-auditor][github链接]]
 
-- [[https://gitee.com/nigo81/audittool][万能函证生成器]] -
-  [[https://www.bilibili.com/video/BV1eK411u7cz][使用方法]]
-  采用根据不同Word自动生成Excel模版，只需要在生成的Excel模版中填写数据，点点按钮就能轻松生成
+- [[https://mp.weixin.qq.com/s/VdCmd2lL7mJcSLJTV_fF7w][万能函证生成器]] 支持批量生成所有格式的函证，包括Excel和Word格式模板，如银行询证函、往来、票据、交易事项、存货、验资业务等等模板。
+  [[https://www.123pan.com/s/8kiA-Jc3hH][下载地址]] 提取码:4VBB
 
 - [[http://www.ffcell.com/][方方格子]]
   -Excel插件，包含一系列Excel实用功能
