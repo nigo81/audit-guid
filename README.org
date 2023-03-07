@@ -28,6 +28,7 @@
 - [[#工具][工具]]
   - [[#财务审计工具][财务审计工具]]
   - [[#it审计工具][IT审计工具]]
+  - [[#chatgpt][ChatGpt]]
   - [[#财务工具][财务工具]]
   - [[#办公效率工具][办公效率工具]]
 - [[#实用网站][实用网站]]
@@ -82,6 +83,10 @@
   word加载宏一些实用功能
   [[https://pan.baidu.com/s/1p8oUSHNQCRbq18Kzo_aHLA][下载链接]]
   提取码：oeia
+- 财审办公小助手-工具格 （Word）
+  -此插件为“财审办公小助手-工具格”的配套插件，安装工具格时亦同时安装工具格 （Word）；也可单独安装，免费使用。
+  此插件集合了一些常用的功能，比如：粘贴美表（表格自动排版）、表格核数、图片排版、链接报告等功能。
+  [[https://pan.baidu.com/s/100W0acIlu245DQ3bSirP8Q][下载链接]] 提取码：kunm
 
 - [[https://mp.weixin.qq.com/s/432rFH8lHHLCiUJpNZ4zag][银行流水闭环核查工具]]
 
@@ -153,6 +158,15 @@
 - [[https://mp.weixin.qq.com/s?__biz=MzI0MjgxMzg1Mw==&mid=2247491615&idx=1&sn=1bc06e3e981929db2a84deceb3a82a6c&chksm=e9743eedde03b7fb411286e3b72d8d10e60b5913d7ade2ec3a8a3dd39c132ddd6fd37608f356&token=894284587&lang=zh_CN#rd][公司名称批量模糊匹配]]
   利用fuzzywuzzy对两期账套的往来科目公司名称进行模糊匹配
 
+
+
+** ChatGpt
+[[https://chat.openai.com/chat][官方网站（需要魔法）]]
+[[https://xc.com/][国内免登录注册网站]]
+介绍文章：
+[[https://mp.weixin.qq.com/s?__biz=MzI0MjgxMzg1Mw==&mid=2247496683&idx=1&sn=a8ee685ab5d1e468bd5efc50390f5a34&chksm=e9742d19de03a40f58d6856640e939f248ea68b70e6c594b384cb16dc8f0cd55733fa8bdaeed&scene=21#wechat_redirect][AI改变未来的审计]]
+[[https://mp.weixin.qq.com/s?__biz=MzI0MjgxMzg1Mw==&mid=2247497227&idx=1&sn=aa4d4e3108269da6c111e625191c5a35&chksm=e97428f9de03a1ef0c48f8cbe4c93cb0be63e775e7756121dc3cb363145dc9c7c9e80136296d&scene=21#wechat_redirect][chatgpt在会计师事务所中的运用-审计篇]]
+[[https://mp.weixin.qq.com/s?__biz=MzI0MjgxMzg1Mw==&mid=2247497302&idx=1&sn=d8c9dbc089139e73e1373ce24106f32f&chksm=e97428a4de03a1b24d0083da628be0560905170b16b80ca78882063ecbe7f5da1f0d05d0dc51&scene=21#wechat_redirect][chatgpt在会计师事务所中的运用-IT审计篇]]
 ** 财务工具
 :PROPERTIES:
 :CUSTOM_ID: 财务工具
