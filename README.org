@@ -77,9 +77,9 @@
 - [[https://mp.weixin.qq.com/s?__biz=MzI0MjgxMzg1Mw==&mid=2247491654&idx=1&sn=4b374e054033b0a2d951a50e97031357&chksm=e9743eb4de03b7a2aed427500e294574bc80abb860f749afe7b835b2f6e4c73d200a42b91cb5&token=196403941&lang=zh_CN#rd][审计报告排版工具]]
   [[https://wwe.lanzoui.com/izTYZsopdej][下载链接]]
 
-- [[https://mp.weixin.qq.com/s/EaxDjt-M8cgmYh3bh4Ilwg][底稿小帮手]]
-  -开发并整合了一些财审刷底稿过程中的一些实用功能，比如凑数字、财务数据的爬取，公式的快速处理等等
-  [[https://www.gzaudit.com/][下载链接]]
+- [[https://www.gzaudit.com/][底稿小帮手]]
+  -集成财审一线的60+实用功能，包括各种针对审计行业的Excel增强功能和审计效率工具、看账工具等等，免费使用
+- [[https://www.gzaudit.com/glf/][内部往来交易统计工具]] -无论是单体分工还是科目分工，都可以直接生成生成关联方统计表，上百家公司匹配合并也不会卡顿
 
 - [[https://mp.weixin.qq.com/s?__biz=MzI0MjgxMzg1Mw==&mid=2247489878&idx=1&sn=fd6471bdfcf1612fbac06bf4e573c4fb&chksm=e977c7a4de004eb22b53ee57cc2543c5466dc213e0d1d2fdff3a3e92f0bf9c41f09f268bb81e&token=196403941&lang=zh_CN#rd][word排版大杀器]] -
   word加载宏一些实用功能
