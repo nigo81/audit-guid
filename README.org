@@ -113,7 +113,7 @@
   [[https://mp.weixin.qq.com/s/_d42SKSUyWBKoM1JRNbQMA][使用方法]] 。
 - [[https://tushare.pro/][tushare金融数据]]
   -金融数据接口（数据获取需要积分）
-- [[https://www.akshare.xyz/zh_CN/latest/index.html][akshare金融数据]]
+- [[https://www.akshare.xyz][akshare金融数据]]
   -免费的金融数据接口
 - [[http://baostock.com/baostock/index.php][baostock金融数据]]
   -免费的金融数据接口
