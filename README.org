@@ -431,6 +431,7 @@
   -（提取码：f4d9）-2019年发布的18项中国注册会计师审计准则+2020发布的5项中国注册会计师审计准则问题解答
 - [[https://www.lanzoui.com/i7um6ch][中国注册会计师审计准则应用指南-下载]]
 - [[http://www.casplus.com/standard/standard.asp#ifrs][国际财务报告准则（IFRS）中英文版本对照查询网站]]
+- [[http://www.csrc.gov.cn/csrc/c101802/c7118278/content.shtml][监管规则适用指引——发行类第5号]]
 
 ** 其它
 :PROPERTIES:
