@@ -61,7 +61,7 @@
 :PROPERTIES:
 :CUSTOM_ID: 财务审计工具
 :END:
-- [[https://gitee.com/wwwwwc/audbox][审计工具箱]]
+- [[http://52xlsj.com/][审计工具箱]]
   快递截图、工商截图、询证函处理、地址复核、海关查询、公告下载、地址补全集合成一个exe文件。
 
 - [[https://gitee.com/nigo81/tools-for-auditor][tools for auditor]]
