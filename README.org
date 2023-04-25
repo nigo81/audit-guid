@@ -373,11 +373,9 @@
 :PROPERTIES:
 :CUSTOM_ID: 事务所信息查询
 :END:
+- [[http://acc.mof.gov.cn/][注册会计师行业统一监管平台]] - 注册会计师信息、会计师事务所信息、会计师事务所重名查询、从事证券服务业务会计师事务所备案名录等
+- [[https://www.cicpa.org.cn/ztzl1/swszhpm/pingjia_1/][会计师事务所综合评价排名]]
 - [[http://mof.gjzwfw.gov.cn][财政部政务服务窗口]]
-- [[http://app.gjzwfw.gov.cn/jmopen/webapp/html5/zqsxxcx/index.html][证券资格事务所信息查询]]
-- [[http://app.gjzwfw.gov.cn/jmopen/webapp/html5/swsxxcx/index.html][事务所信息查询]]
-- [[http://app.gjzwfw.gov.cn/jmopen/webapp/html5/zckjscx/index.html][注册会计师信息查询]]
-- [[http://app.gjzwfw.gov.cn/jmopen/webapp/html5/swscmcx/index.html][事务所重名查询]]
 - [[http://app.gjzwfw.gov.cn/jmopen/webapp/html5/dljzjgcx/index.html][代理记账机构查询]]
 
 ** 税收法规查询
