@@ -44,6 +44,7 @@
   - [[#处罚信息][处罚信息]]
 - [[#法规学习][法规学习]]
   - [[#准则][准则]]
+  - [[#h股上市规则][H股上市规则]]
   - [[#其它][其它]]
 - [[#网课][网课]]
 - [[#书籍][书籍]]
@@ -430,7 +431,8 @@
 - [[https://www.lanzoui.com/i7um6ch][中国注册会计师审计准则应用指南-下载]]
 - [[http://www.casplus.com/standard/standard.asp#ifrs][国际财务报告准则（IFRS）中英文版本对照查询网站]]
 - [[http://www.csrc.gov.cn/csrc/c101802/c7118278/content.shtml][监管规则适用指引——发行类第5号]]
-
+** H股上市规则
+[[https://wwds.lanzouq.com/iz4FM14fcyqd][H股上市规则（中文版）]]
 ** 其它
 :PROPERTIES:
 :CUSTOM_ID: 其它
