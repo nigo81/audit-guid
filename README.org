@@ -69,6 +69,8 @@
   Excel VBA编写的一系列工具（点击“克隆/下载”）
   [[https://github.com/nigo81/tools-for-auditor][github链接]]
 
+- [[https://space.bilibili.com/417830965/channel/collectiondetail?sid=784007&ctype=0][附注生成工具]] -- 根据Excel 生动生成报告附注。王建斌开发，目前市面上我看到的最强，最易用的工具。
+
 - [[https://mp.weixin.qq.com/s/VdCmd2lL7mJcSLJTV_fF7w][万能函证生成器]] 支持批量生成所有格式的函证，包括Excel和Word格式模板，如银行询证函、往来、票据、交易事项、存货、验资业务等等模板。
   [[https://www.123pan.com/s/8kiA-Jc3hH][下载地址]] 提取码:4VBB
 
@@ -299,10 +301,8 @@
 - [[http://eid.csrc.gov.cn/][中国证券监督管理委员会（信息披露平台）]]
 - [[http://www.csrc.gov.cn/pub/newsite/][中国证券监督管理委员会]]
 - [[http://www.neeq.com.cn/disclosure/overview_information.html][股转系统公告查询]]
-- [[http://www.csrc.gov.cn/pub/newsite/zxgx/jigbsdt/][中小板、主板的排队名单]]
-- [[http://kcb.sse.com.cn/renewal/][科创板名单及反馈查询]]
-- [[http://listing.szse.cn/projectdynamic/ipo/index.html][创业板名单及反馈查询]]
-- [[http://www.neeq.com.cn/zone/audit/project_news.html][精选层名单及反馈查询]]
+- [[http://kcb.sse.com.cn/renewal/][上交所主板、科创板名单及反馈查询]]
+- [[http://listing.szse.cn/projectdynamic/ipo/index.html][深交所主板、创业板名单及反馈查询]]
 
 ** 招股说明书查询
 :PROPERTIES:
