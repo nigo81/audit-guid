@@ -69,7 +69,7 @@
   Excel VBA编写的一系列工具（点击“克隆/下载”）
   [[https://github.com/nigo81/tools-for-auditor][github链接]]
 
-- [[https://space.bilibili.com/417830965/channel/collectiondetail?sid=784007&ctype=0][附注生成工具]] -- 根据Excel 生动生成报告附注。王建彬开发，目前市面上我看到的最强，最易用的工具。
+- [[https://space.bilibili.com/417830965/channel/collectiondetail?sid=784007&ctype=0][附注生成工具]] -- 根据Excel 生动生成报告附注。王建彬开发，目前市面上我看到的最强，最易用的工具。[[https://www.cpasit.com/assets/Update.exe][工具下载链接]] 付费软件，很便宜，买一次管终生，可以节省很多时间。
 
 - [[https://mp.weixin.qq.com/s/VdCmd2lL7mJcSLJTV_fF7w][万能函证生成器]] 支持批量生成所有格式的函证，包括Excel和Word格式模板，如银行询证函、往来、票据、交易事项、存货、验资业务等等模板。
   [[https://www.123pan.com/s/8kiA-Jc3hH][下载地址]] 提取码:4VBB
