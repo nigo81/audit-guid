@@ -245,7 +245,8 @@
   -全平台GTD软件，适合日常任务管理，建议先阅读
   [[https://book.douban.com/subject/26612471/][《搞定Ⅰ
   无压工作的艺术》]]。
-- [[https://c1n.cn/DLRLh][super productivity]]
+
+- [[https://super-productivity.com][super productivity]]
   -开源免费的清单及时间记录工具
 
 * 实用网站
