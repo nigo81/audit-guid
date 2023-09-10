@@ -408,6 +408,7 @@
 - [[https://www.investor.org.cn/was5/web/search?channelid=223359][挂牌公司违法违规信息]]
 - [[https://www.investor.org.cn/was5/web/search?channelid=223359][中介机构违法违规信息]]
 - [[http://cfws.samr.gov.cn][中国市场监督行政处罚文书网]]
+- [[http://47.94.11.33:8035/CreditArchives/CreditArchivesInfoSelect][资产评估师事务所诚信（处罚）信息查询]]
 
 * 法规学习
 :PROPERTIES:
