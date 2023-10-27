@@ -248,8 +248,11 @@
 - [[https://github.com/jgraph/drawio-desktop/releases][drawio]]
   -免费开源的流程图绘制工具，桌面客户端，可以完全替代visio。
   [[https://wwe.lanzoui.com/b01osg6ef][国内下载]] 密码:camc
+- [[https://wwds.lanzouq.com/ihtZk1czwc6j][office toolkit]]
+  一键激活office软件。
+  方法：运行工具后，点击office图标，检测出office版本后点击“Activation"->"Acativate" 。
 - [[https://otp.landian.vip/zh-cn/][office tool plus]]
-  一键安装office软件，并激活，免费。
+  一键安装office软件，并激活，免费。上面的 office toolkit 更好用。
 - [[https://www.xmind.cn/][xmind]]
   思维导图工具，适合整理想法，免费版足够使用。
 - [[https://www.dida365.com/][滴答清单]]
