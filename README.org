@@ -507,13 +507,16 @@
   -微信读书移动端APP，可以免费看很多正版书籍，适合通勤路上学习。
 - [[https://www.jiumodiary.com/][jiumo搜书]] -免费下载中文书籍
 - [[http://libgen.rs/][Library Genesis]] -免费下载英文书籍
-- [[https://book.douban.com/subject/26746460/][让数字说话]]
+- [[https://wwf.lanzouq.com/b01s3w4va][审计书籍打包下载]] - 下面介绍的一些书打包下载，（密码:e1rg)
+- [[https://wwf.lanzouq.com/iIMt91qpm5lg][让数字说话]]
   -作者以浅显易懂的语言、幽默诙谐的比喻和旁征博引的故事引领我们开启一段奇妙的阅读旅程。
-- [[https://book.douban.com/subject/26871620/][会计准则内在逻辑]]
+- [[https://wwf.lanzouq.com/iELLb1qpcq3e][会计准则内在逻辑]]
   -理解会计准则原理的不错的书。
+- [[https://wwf.lanzouq.com/iFgbx1qpl7qh][蒙哥马利审计学-第12版]] - 读者强烈推荐的书
+  
 - [[https://wwe.lanzoui.com/iB6l3rpmbaf][审计excel技能手册]]
   -详细讲解了审计工作中需要用到的Excel基本技能，比较推荐。
-- [[https://book.douban.com/subject/34886553/][审计效率手册]]
+- [[https://wwf.lanzouq.com/iup601qpiyoj][审计效率手册]]
   -讲解了Excel函数和Excel VBA制作一些审计工具。
 - [[https://bbs.esnai.com/thread-5413973-1-1.html][瑞华研究2010～2019汇编]]
   -审计实务问题汇编
@@ -528,7 +531,7 @@
 - [[https://wwe.lanzoui.com/iz8wMvo3ugj][热点难点会计问题专题研究（2021）-天职国际]]
 - [[https://wwe.lanzoui.com/ipeEpvo491e][财务炼金术]]
   -主要介绍通过行业信息以及报表数据识别是否有造假
-- [[https://book.douban.com/subject/35922721/][IT审计：用SQL+Python提升工作效率]]
+- [[https://wwf.lanzouq.com/iBSwL1qpl5od][IT审计：用SQL+Python提升工作效率]]
   -主要介绍利用SQL+Python进行数据分析
 
 * 自媒体
