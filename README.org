@@ -1,7 +1,16 @@
-* 审计军火库 Audit Guid                                                 
 :PROPERTIES:
-:CUSTOM_ID: 审计军火库-audit-guid
+#+HUGO_BASE_DIR: ~/blog
+#+HUGO_SECTION: posts
+#+HUGO_AUTO_SET_LASTMOD: t
+#+author:
+#+hugo_custom_front_matter: :author "nigo"
+#+HUGO_CODE_FENCE: nil
+#+HUGO_TAGS: audit
+#+hugo_categories:工作 
+#+DATE: 2024-04-13
 :END:
+#+title:audit-guid
+* 审计军火库 Audit Guid                                                 
 [[https://img.shields.io/badge/工具-tools-red.svg]]
 [[https://img.shields.io/badge/法规-refrence-orange.svg]]
 [[https://img.shields.io/badge/网课-learn-yellow.svg]]
@@ -25,36 +34,6 @@
 
 如果关注审计效率相关的内容，可能关注我的[[https://nigo81.github.io/][博客]]或者我的微信公众号： =逆行的狗= 。
 
-* 目录                                                                  :TOC:
-- [[#审计军火库-audit-guid][审计军火库 Audit Guid]]
-- [[#工具][工具]]
-  - [[#财务审计工具][财务审计工具]]
-  - [[#it审计工具][IT审计工具]]
-  - [[#chatgpt][ChatGpt]]
-  - [[#财务工具][财务工具]]
-  - [[#办公效率工具][办公效率工具]]
-- [[#实用网站][实用网站]]
-  - [[#综合数据查询平台][综合数据查询平台]]
-  - [[#工商信息查询][工商信息查询]]
-  - [[#审计程序检索][审计程序检索]]
-  - [[#事务所信息查询][事务所信息查询]]
-  - [[#税收法规查询][税收法规查询]]
-  - [[#处罚信息][处罚信息]]
-- [[#ipo][IPO]]
-  - [[#ipo及上市公司定期公告查询][IPO及上市公司定期公告查询]]
-  - [[#招股说明书查询][招股说明书查询]]
-  - [[#相关资料][相关资料]]
-- [[#法规学习][法规学习]]
-  - [[#准则][准则]]
-  - [[#h股上市规则][H股上市规则]]
-  - [[#其它][其它]]
-- [[#网课][网课]]
-- [[#书籍][书籍]]
-- [[#自媒体][自媒体]]
-  - [[#微信公众号][微信公众号]]
-  - [[#微博][微博]]
-  - [[#b站][B站]]
-- [[#其它-1][其它]]
 
 * 工具
 :PROPERTIES:
@@ -521,7 +500,7 @@
 - [[https://bbs.esnai.com/thread-5413973-1-1.html][瑞华研究2010～2019汇编]]
   -审计实务问题汇编
 - [[https://wwe.lanzoui.com/iBRuSrpljuh][中审众环研究]]
-- [[https://wwe.lanzoui.com/i3PgOrpljob][上市公司执行企业会计准则案例解析（2020）]]
+- [[https://pan.baidu.com/s/15bGkk22zo480vPqFBOMfxA?pwd=nigo][上市公司执行企业会计准则案例解析（2024）]]
 - [[https://wwe.lanzoui.com/i0tYwrpljna][IPO审核问答汇编20210716]]
 - [[https://www.aliyundrive.com/s/bSk7pyuSdqQ][行政事业单位审计常见问题200案例]]
   -(提取码：gkt0)
