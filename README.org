@@ -7,7 +7,7 @@
 #+HUGO_CODE_FENCE: nil
 #+HUGO_TAGS: audit
 #+hugo_categories:工作 
-#+DATE: 2024-04-13
+#+DATE: 2024-05-24
 :END:
 #+title:audit-guid
 * 审计军火库 Audit Guid                                                 
@@ -32,7 +32,7 @@
 
 当然，你如果会使用 =git= ，你也可以提交 =pull requests= 。
 
-如果关注审计效率相关的内容，可能关注我的[[https://nigo81.github.io/][博客]]或者我的微信公众号： =逆行的狗= 。
+如果关注审计效率相关的内容，可以关注我的[[https://nigo81.github.io/][博客]]或者我的微信公众号： =逆行的狗= 。
 
 
 * 工具
@@ -51,6 +51,7 @@
   [[https://github.com/nigo81/tools-for-auditor][github链接]]
 
 - [[https://space.bilibili.com/417830965/channel/collectiondetail?sid=784007&ctype=0][附注生成工具]] -- 根据Excel 生动生成报告附注。王建彬开发，目前市面上我看到的最强，最易用的工具。[[https://www.cpasit.com/assets/Update.exe][工具下载链接]] 付费软件，很便宜，买一次管终生，可以节省很多时间。
+- [[https://gitee.com/hhhelong/Accounting-Title][多级标准化会计科目设置规范]] --提出了一套全面且科学的会计科目设置规范参考标准以提高行业内的财务数据可比性和准确性
 
 - [[https://mp.weixin.qq.com/s/VdCmd2lL7mJcSLJTV_fF7w][万能函证生成器]] 支持批量生成所有格式的函证，包括Excel和Word格式模板，如银行询证函、往来、票据、交易事项、存货、验资业务等等模板。
   [[https://www.123pan.com/s/8kiA-Jc3hH][下载地址]] 提取码:4VBB
