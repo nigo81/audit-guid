@@ -7,7 +7,7 @@
 #+HUGO_CODE_FENCE: nil
 #+HUGO_TAGS: audit
 #+hugo_categories:工作 
-#+DATE: 2024-05-24
+#+DATE: 2024-09-05
 :END:
 #+title:audit-guid
 * 审计军火库 Audit Guid                                                 
@@ -52,7 +52,6 @@
 
 - [[https://space.bilibili.com/417830965/channel/collectiondetail?sid=784007&ctype=0][附注生成工具]] -- 根据Excel 生动生成报告附注。王建彬开发，目前市面上我看到的最强，最易用的工具。[[https://www.cpasit.com/assets/Update.exe][工具下载链接]] 付费软件，很便宜，买一次管终生，可以节省很多时间。
 - [[https://gitee.com/hhhelong/Accounting-Title][多级标准化会计科目设置规范]] --提出了一套全面且科学的会计科目设置规范参考标准以提高行业内的财务数据可比性和准确性
-
 - [[https://mp.weixin.qq.com/s/VdCmd2lL7mJcSLJTV_fF7w][万能函证生成器]] 支持批量生成所有格式的函证，包括Excel和Word格式模板，如银行询证函、往来、票据、交易事项、存货、验资业务等等模板。
   [[https://www.123pan.com/s/8kiA-Jc3hH][下载地址]] 提取码:4VBB
 
@@ -154,20 +153,15 @@
 - [[https://chatdoc.xfyun.cn/][讯飞星火-文档问答]] -- [[https://mp.weixin.qq.com/s?__biz=MzI0MjgxMzg1Mw==&mid=2247499345&idx=1&sn=6ff4afca93b63ae87d11019c92081159&chksm=e97420a3de03a9b5376719b76d8c46e51f8366e42a27e15ca91a4d36e041e16fa35abafc8cee&token=1383386970&lang=zh_CN#rd][使用介绍]]
 - 百度（文心一言）：[[https://yiyan.baidu.com/welcome][文心一言]]
 - 阿里（通义千问）：[[https://qianwen.aliyun.com/][通义千问]]
-- 抖音（云雀大模型）：[[https://www.doubao.com/][云雀]]
-- 360 （360 智脑）：[[https://ai.360.com/][360 智脑]]
-- 智谱 AI（GLM 大模型）：[[https://chatglm.cn/][GLM]]
-- 中科院（紫东太初大模型）：[[https://xihe.mindspore.cn/][紫东太初]]
-- 百川智能（百川大模型）：[[https://www.baichuan-ai.com/][百川智能]]
-- 商汤（日日新大模型）：[[https://techday.sensetime.com/][日日新]]
-- MiniMax（ABAB 大模型）：[[https://api.minimax.chat/][MiniMax]]
-- 上海人工智能实验室（书生通用大模型）：[[https://intern-ai.org.cn/][书生]]
-- 华为（盘古大模型）：[[https://www.huaweicloud.com/product/pangu.html][盘古]]
+- 字节跳动：[[https://www.doubao.com/chat/?channel=baidu_pz&from_login=1][豆包]]
+- 月之暗面（Kimi大模型）：[[https://kimi.moonshot.cn/][Kimi]]
 
 介绍文章：
 - [[https://mp.weixin.qq.com/s?__biz=MzI0MjgxMzg1Mw==&mid=2247496683&idx=1&sn=a8ee685ab5d1e468bd5efc50390f5a34&chksm=e9742d19de03a40f58d6856640e939f248ea68b70e6c594b384cb16dc8f0cd55733fa8bdaeed&scene=21#wechat_redirect][AI改变未来的审计]]
 - [[https://mp.weixin.qq.com/s?__biz=MzI0MjgxMzg1Mw==&mid=2247497227&idx=1&sn=aa4d4e3108269da6c111e625191c5a35&chksm=e97428f9de03a1ef0c48f8cbe4c93cb0be63e775e7756121dc3cb363145dc9c7c9e80136296d&scene=21#wechat_redirect][chatgpt在会计师事务所中的运用-审计篇]]
 - [[https://mp.weixin.qq.com/s?__biz=MzI0MjgxMzg1Mw==&mid=2247497302&idx=1&sn=d8c9dbc089139e73e1373ce24106f32f&chksm=e97428a4de03a1b24d0083da628be0560905170b16b80ca78882063ecbe7f5da1f0d05d0dc51&scene=21#wechat_redirect][chatgpt在会计师事务所中的运用-IT审计篇]]
+- [[https://mp.weixin.qq.com/s/EBPsTQu8b3pTF6BGKNqy1w][大模型+RPA的审计落地场景之AI帮你看单据]]
+- [[https://mp.weixin.qq.com/s/Knqdv_oTEoNsjDNfhRNnww][大模型+RPA的审计落地场景之6+10票据识别]]
 
 ** 财务工具
 :PROPERTIES:
