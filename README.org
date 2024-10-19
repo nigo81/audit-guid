@@ -7,7 +7,7 @@
 #+HUGO_CODE_FENCE: nil
 #+HUGO_TAGS: audit
 #+hugo_categories:工作 
-#+DATE: 2024-09-05
+#+DATE: 2024-10-19
 :END:
 #+title:audit-guid
 * 审计军火库 Audit Guid                                                 
@@ -83,6 +83,7 @@
 - [[https://pan.baidu.com/s/100W0acIlu245DQ3bSirP8Q][财审办公小助手-工具格]]
   主要适合财务、审计人员和与数字打交道人员用于辅助数据处理，简单易用。集中功能有：目录导航、公式转值、数字累加、正则、统一字体、数据验证等常用功能。
   提取码：kunm
+- [[https://gitee.com/shuge-tree/automation][树哥自动办公——一系列原创轻量办公工具]] [[https://wwpr.lanzout.com/b00pzvwxqj][工具下载]] 密码:41hj
 
 *** 财务数据工具
 :PROPERTIES:
