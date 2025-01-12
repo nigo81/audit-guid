@@ -7,7 +7,7 @@
 #+HUGO_CODE_FENCE: nil
 #+HUGO_TAGS: audit
 #+hugo_categories:工作 
-#+DATE: 2024-10-19
+#+DATE: 2025-01-12
 :END:
 #+title:audit-guid
 * 审计军火库 Audit Guid                                                 
@@ -43,17 +43,17 @@
 :PROPERTIES:
 :CUSTOM_ID: 财务审计工具
 :END:
+- [[https://mp.weixin.qq.com/s/HPsj238t8Wyu68I6NmAlFg][SW审计工具箱]]
+  账套制作、批量刷明细表、TB 制作、搬运上期账龄、披露表、附注、合同关键信息提取等。适合一两个人完成生成报告这条线。
 - [[http://52xlsj.com/][审计工具箱]]
   快递截图、工商截图、询证函处理、地址复核、海关查询、公告下载、地址补全集合成一个exe文件。
-
 - [[https://gitee.com/nigo81/tools-for-auditor][tools for auditor]]
   Excel VBA编写的一系列工具（点击“克隆/下载”）
   [[https://github.com/nigo81/tools-for-auditor][github链接]]
-
 - [[https://space.bilibili.com/417830965/channel/collectiondetail?sid=784007&ctype=0][附注生成工具]] -- 根据Excel 生动生成报告附注。王建彬开发，目前市面上我看到的最强，最易用的工具。[[https://www.cpasit.com/assets/Update.exe][工具下载链接]] 付费软件，很便宜，买一次管终生，可以节省很多时间。
 - [[https://gitee.com/hhhelong/Accounting-Title][多级标准化会计科目设置规范]] --提出了一套全面且科学的会计科目设置规范参考标准以提高行业内的财务数据可比性和准确性
-- [[https://mp.weixin.qq.com/s/VdCmd2lL7mJcSLJTV_fF7w][万能函证生成器]] 支持批量生成所有格式的函证，包括Excel和Word格式模板，如银行询证函、往来、票据、交易事项、存货、验资业务等等模板。
-  [[https://www.123pan.com/s/8kiA-Jc3hH][下载地址]] 提取码:4VBB
+- [[https://mp.weixin.qq.com/s/dkKbEJmfDj_fW6JWrcL8lw][万能函证生成器]] 支持批量生成所有格式的函证，包括Excel和Word格式模板，如银行询证函、往来、票据、交易事项、存货、验资业务等等模板。
+  [[https://wwcheng.lanzoub.com/b0hcijzli][下载地址]] 密码:fknj
 
 - [[http://www.ffcell.com/][方方格子]]
   -Excel插件，包含一系列Excel实用功能
@@ -214,8 +214,10 @@
   -基于名称快速定位文件和文件夹，是我见过的速度最快的文件名搜索软件，只要文件或文件夹命名无误，几个十万个文件，可以在几秒内完成索引。
 - [[https://www.huochaipro.com/][火柴]]
   -搜索工具:能够做到文件达到秒搜，局域网秒传文件，还支持各种系统命令命令，迅速打开我们的电脑软件，支持网络直达功能
+- [[https://www.anytxt.net.cn/download.html][Anytxt]]
+  免费可以检索文件(pdf\word等)内容的搜索工具
 - [[http://docfetcher.sourceforge.net/zh/index.html][docfetcher]]
-  可以检索文件(pdf\word等)内容的搜索工具
+  免费可以检索文件(pdf\word等)内容的搜索工具
   [[https://mp.weixin.qq.com/s/fhRNSWzeWfXCaxD5ECUDfg][介绍]]
   [[https://c1n.cn/BE7XE][搜索技巧]]
 - [[https://obsidian.md/][Obsidian]]
