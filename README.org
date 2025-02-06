@@ -7,7 +7,7 @@
 #+HUGO_CODE_FENCE: nil
 #+HUGO_TAGS: audit
 #+hugo_categories:工作 
-#+DATE: 2025-01-12
+#+DATE: 2025-02-06
 :END:
 #+title:audit-guid
 * 审计军火库 Audit Guid                                                 
@@ -148,14 +148,16 @@
 
 
 ** ChatGpt
-- [[https://chat.openai.com/chat][官方网站（需要魔法）]] 吊打其它所有
-- 国内可用的 chatgpt ：[[http://43.139.36.221/][ChatGPT]]
+- [[https://chat.openai.com/chat][官方网站（需要魔法）]] 
+
+国内的AI:
+- [[https://www.deepseek.com/][DeepSeek]] ：模型能力较强
+- 阿里（通义千问）：[[https://qianwen.aliyun.com/][通义千问]] ：模型能力较强。
+- 月之暗面（Kimi大模型）：[[https://kimi.moonshot.cn/][Kimi]] ：适合超长文本，联网查询。
 - 科大讯飞（讯飞星火）：[[https://xinghuo.xfyun.cn/][讯飞星火]]
-- [[https://chatdoc.xfyun.cn/][讯飞星火-文档问答]] -- [[https://mp.weixin.qq.com/s?__biz=MzI0MjgxMzg1Mw==&mid=2247499345&idx=1&sn=6ff4afca93b63ae87d11019c92081159&chksm=e97420a3de03a9b5376719b76d8c46e51f8366e42a27e15ca91a4d36e041e16fa35abafc8cee&token=1383386970&lang=zh_CN#rd][使用介绍]]
+- [[https://chatdoc.xfyun.cn/][讯飞星火-文档问答]] -- [[https://mp.weixin.qq.com/s?__biz=MzI0MjgxMzg1Mw==&mid=2247499345&idx=1&sn=6ff4afca93b63ae87d11019c92081159&chksm=e97420a3de03a9b5376719b76d8c46e51f8366e42a27e15ca91a4d36e041e16fa35abafc8cee&token=1383386970&lang=zh_CN#rd][使用介绍]] 适合知识库问答
 - 百度（文心一言）：[[https://yiyan.baidu.com/welcome][文心一言]]
-- 阿里（通义千问）：[[https://qianwen.aliyun.com/][通义千问]]
 - 字节跳动：[[https://www.doubao.com/chat/?channel=baidu_pz&from_login=1][豆包]]
-- 月之暗面（Kimi大模型）：[[https://kimi.moonshot.cn/][Kimi]]
 
 介绍文章：
 - [[https://mp.weixin.qq.com/s?__biz=MzI0MjgxMzg1Mw==&mid=2247496683&idx=1&sn=a8ee685ab5d1e468bd5efc50390f5a34&chksm=e9742d19de03a40f58d6856640e939f248ea68b70e6c594b384cb16dc8f0cd55733fa8bdaeed&scene=21#wechat_redirect][AI改变未来的审计]]
