@@ -37,7 +37,9 @@
 目前，我也整理了常用的法规、视频课程、效率工具等文件在网盘中，供大家下载：
 
 百度网盘：https://pan.baidu.com/s/1HuDsgS4MnXb2PlYWwoMVOA?pwd=nigo
+
 夸克网盘：https://pan.quark.cn/s/48060fbe03ff
+
 阿里网盘：https://www.alipan.com/s/5hZXhQjytpD
 
 上述链接如果失效或者未更新,可以加入 [[https://public.zsxq.com/groups/28888158188211][审计军火库知识星球]] （免费的），获取最新的网盘链接。
@@ -448,6 +450,8 @@
 - [[http://www.csrc.gov.cn/csrc/c101802/c7118278/content.shtml][监管规则适用指引——发行类第5号]]
 ** H股上市规则
 [[https://wwds.lanzouq.com/iz4FM14fcyqd][H股上市规则（中文版）]]
+** 税务
+[[https://fgk.chinatax.gov.cn/][国家税务总局政策法规库]]
 ** 其它
 :PROPERTIES:
 :CUSTOM_ID: 其它
